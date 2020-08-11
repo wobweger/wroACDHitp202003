@@ -1,0 +1,4631 @@
+{
+  "rows" : [
+    {
+      "recv" : "Andrian, Leopold",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Freiherr von",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "18. 11. 1912",
+      "date_when" : "1912-11-18",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "7. 12. 1912",
+      "date_when" : "1912-12-07",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Andro, L.",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "12. 2. 1912",
+      "date_when" : "1912-02-12",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Auernheimer, Raoul",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "6. 12. 1910",
+      "date_when" : "1910-12-06",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Bab, Julius",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "18. 1. 1909",
+      "date_when" : "1909-01-18",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Bachrach, Daniel",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "7. 3. 1904",
+      "date_when" : "1904-03-07",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Bahr, Hermann",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "18. 11. 1897",
+      "date_when" : "1897-11-18",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "26. 6. 1901",
+      "date_when" : "1901-06-26",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "6. 4. 1903",
+      "date_when" : "1903-04-06",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "10. 11. 1903",
+      "date_when" : "1903-11-10",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "5. 12. 1904",
+      "date_when" : "1904-12-05",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "14. 12. 1904",
+      "date_when" : "1904-12-14",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "30. 7. 1905",
+      "date_when" : "1905-07-30",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "17. 9. 1905",
+      "date_when" : "1905-09-17",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "24. 6. 1906",
+      "date_when" : "1906-06-24",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "11. 10. 1907",
+      "date_when" : "1907-10-11",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "17. 11. 1910",
+      "date_when" : "1910-11-17",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Bänôczi, Ladislaus",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "29. 9. 1908",
+      "date_when" : "1908-09-29",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Barnowsky, Viktor",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "3. 12. 1912",
+      "date_when" : "1912-12-03",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Bauer, Ludwig",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "10. 7. 1903",
+      "date_when" : "1903-07-10",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Beer-Hofmann,",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Richard",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "6. 6. 1891",
+      "date_when" : "1891-06-06",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "22. 9. 1891",
+      "date_when" : "1891-09-22",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : true
+    },
+    {
+      "recv" : "11. 3. 1892",
+      "date_when" : "1892-03-11",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "13. 9. 1892",
+      "date_when" : "1892-09-13",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "5. 10. 1894",
+      "date_when" : "1894-10-05",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "15. 10. 1894",
+      "date_when" : "1894-10-15",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "20. 10. 1894",
+      "date_when" : "1894-10-20",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "15. 6. 1895",
+      "date_when" : "1895-06-15",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "15. 9. 1895",
+      "date_when" : "1895-09-15",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "26. 4. 1897",
+      "date_when" : "1897-04-26",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "20. 5. 1897",
+      "date_when" : "1897-05-20",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "25. 9. 1897",
+      "date_when" : "1897-09-25",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "2. 3. 1900",
+      "date_when" : "1900-03-02",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "15. 11. 1904",
+      "date_when" : "1904-11-15",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Berger, Alfred",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Freiherr von",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "7. 9. 1906",
+      "date_when" : "1906-09-07",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "26. 9. 1907",
+      "date_when" : "1907-09-26",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "26. 11. 1910",
+      "date_when" : "1910-11-26",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "20. 9. 1911",
+      "date_when" : "1911-09-20",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "17. 6. 1912",
+      "date_when" : "1912-06-17",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Bie, Oskar",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "19. 11. 1911",
+      "date_when" : "1911-11-19",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Felix Bloch Erben",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "(Verlag)",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "9. 12. 1911",
+      "date_when" : "1911-12-09",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Bock, Philipp",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "21. 1. 1911",
+      "date_when" : "1911-01-21",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Brahm, Otto",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "25. 2. 1896",
+      "date_when" : "1896-02-25",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "14. 9. 1896",
+      "date_when" : "1896-09-14",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "30. 9. 1896",
+      "date_when" : "1896-09-30",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "7. 1. 1897",
+      "date_when" : "1897-01-07",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "23. 5. 1897",
+      "date_when" : "1897-05-23",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "22. 12. 1901",
+      "date_when" : "1901-12-22",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "9. 1. 1902",
+      "date_when" : "1902-01-09",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "2. 11. 1903",
+      "date_when" : "1903-11-02",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "10. 11. 1903",
+      "date_when" : "1903-11-10",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "13. 8. 1904",
+      "date_when" : "1904-08-13",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "1. 10. 1905",
+      "date_when" : "1905-10-01",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "23. 1. 1906",
+      "date_when" : "1906-01-23",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "27. 1. 1906",
+      "date_when" : "1906-01-27",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "28. 4. 1906",
+      "date_when" : "1906-04-28",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "5. 5. 1906",
+      "date_when" : "1906-05-05",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "12. 7. 1906",
+      "date_when" : "1906-07-12",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "28. 7. 1906",
+      "date_when" : "1906-07-28",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "6. 8. 1906",
+      "date_when" : "1906-08-06",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "16. 3. 1908",
+      "date_when" : "1908-03-16",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "4. 8. 1909",
+      "date_when" : "1909-08-04",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "14. 8. 1909",
+      "date_when" : "1909-08-14",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "9. 12. 1909",
+      "date_when" : "1909-12-09",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "18. 12. 1909",
+      "date_when" : "1909-12-18",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "27. 12. 1909",
+      "date_when" : "1909-12-27",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "23. 12. 1910",
+      "date_when" : "1910-12-23",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "23. 9. 1911",
+      "date_when" : "1911-09-23",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "4. 10. 1911",
+      "date_when" : "1911-10-04",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "30. 12. 1911",
+      "date_when" : "1911-12-30",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "23. 9. 1912",
+      "date_when" : "1912-09-23",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Brandes, Georg",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "12. 6. 1894",
+      "date_when" : "1894-06-12",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "I1. 1. 1897",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "3. 2. 1897",
+      "date_when" : "1897-02-03",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "23. 7. 1898",
+      "date_when" : "1898-07-23",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "12. 1. 1899",
+      "date_when" : "1899-01-12",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "8. 5. 1899",
+      "date_when" : "1899-05-08",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "3. 5. 1900",
+      "date_when" : "1900-05-03",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "13. 3. 1906",
+      "date_when" : "1906-03-13",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "4. 7. 1908",
+      "date_when" : "1908-07-04",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "19. 1. 1911",
+      "date_when" : "1911-01-19",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Ehrenstein, Albert",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "9. 2. 1911",
+      "date_when" : "1911-02-09",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "6. 5. 1911",
+      "date_when" : "1911-05-06",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Englisch, Paul",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "30. 12. 1911",
+      "date_when" : "1911-12-30",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Epstein, Fritz",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "11. 4. 190",
+      "date_when" : "0190-04-10",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "17. 4. 1907",
+      "date_when" : "1907-04-17",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Epstein, Stephan",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "1. 10. 1902",
+      "date_when" : "1902-10-01",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Fischer, Samuel",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "23. 2. 1907",
+      "date_when" : "1907-02-23",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "17. 4. 1907",
+      "date_when" : "1907-04-17",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "15. 11. 1907",
+      "date_when" : "1907-11-15",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "16. 11. 1907",
+      "date_when" : "1907-11-16",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "14. 5. 1908",
+      "date_when" : "1908-05-14",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "29. 5. 1908",
+      "date_when" : "1908-05-29",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "4. 6. 1910",
+      "date_when" : "1910-06-04",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "30. 11. 1910",
+      "date_when" : "1910-11-30",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "17. 12. 1910",
+      "date_when" : "1910-12-17",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "24. 6. 1911",
+      "date_when" : "1911-06-24",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "20. 10. 1911",
+      "date_when" : "1911-10-20",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Franzos, Karl Emil",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "29. 4. 1888",
+      "date_when" : "1888-04-29",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Freudenthal, Rosa",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "2. 10. 1897",
+      "date_when" : "1897-10-02",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "9. 10. 1897",
+      "date_when" : "1897-10-09",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Friedmann, Ernst",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "13. 9. 1912",
+      "date_when" : "1912-09-13",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Friese, Carl",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "13. 2. 1907",
+      "date_when" : "1907-02-13",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "20. 2. 1907",
+      "date_when" : "1907-02-20",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Fulda, Ludwig",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "28. 11. 1898",
+      "date_when" : "1898-11-28",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "28. 12. 1898",
+      "date_when" : "1898-12-28",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "4. 1. 1899",
+      "date_when" : "1899-01-04",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "10. 3. 1890",
+      "date_when" : "1890-03-10",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "25. 4. 1899",
+      "date_when" : "1899-04-25",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "20. 6. 1900",
+      "date_when" : "1900-06-20",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "23. 6. 1900",
+      "date_when" : "1900-06-23",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "7. 7. 1900",
+      "date_when" : "1900-07-07",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "17. 1. 1901",
+      "date_when" : "1901-01-17",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "22. 3. 1901",
+      "date_when" : "1901-03-22",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "8. 6. 1901",
+      "date_when" : "1901-06-08",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "23. 7. 1904",
+      "date_when" : "1904-07-23",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "25. 8. 1904",
+      "date_when" : "1904-08-25",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Glümer, Marie",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Sommer 1889",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "4. 8. 1889",
+      "date_when" : "1889-08-04",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "5. 8. 1889",
+      "date_when" : "1889-08-05",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "6. 8. 1889",
+      "date_when" : "1889-08-06",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "28. 8. 1889",
+      "date_when" : "1889-08-28",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : true
+    },
+    {
+      "recv" : "4. 9. 1889",
+      "date_when" : "1889-09-04",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "5. 9. 1889",
+      "date_when" : "1889-09-05",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "8. 9. 1889",
+      "date_when" : "1889-09-08",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : true
+    },
+    {
+      "recv" : "23. 9. 1889",
+      "date_when" : "1889-09-23",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : true
+    },
+    {
+      "recv" : "5. 10. 1889",
+      "date_when" : "1889-10-05",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "7. 10. 1889",
+      "date_when" : "1889-10-07",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "8. 10. 1889?",
+      "date_when" : "1889-10-08",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "14. 11. 1889",
+      "date_when" : "1889-11-14",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "22. 11. 1889",
+      "date_when" : "1889-11-22",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : true
+    },
+    {
+      "recv" : "3. 12. 1889",
+      "date_when" : "1889-12-03",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "30. 7. 1890",
+      "date_when" : "1890-07-30",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Mitte September 1890",
+      "date_when" : "1890-09",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "September 1890)",
+      "date_when" : "1890-09",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : true
+    },
+    {
+      "recv" : "6. 10. 1890",
+      "date_when" : "1890-10-06",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "7. 10. 1890",
+      "date_when" : "1890-10-07",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "12. 10. 1890",
+      "date_when" : "1890-10-12",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "27. 10. 1890",
+      "date_when" : "1890-10-27",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "18. 11. 1890",
+      "date_when" : "1890-11-18",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "19. 11. 1890",
+      "date_when" : "1890-11-19",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : true
+    },
+    {
+      "recv" : "24. 10. 1890",
+      "date_when" : "1890-10-24",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "9. 2. 1891",
+      "date_when" : "1891-02-09",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "12. 3. 1891",
+      "date_when" : "1891-03-12",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "2. 7. 1891",
+      "date_when" : "1891-07-02",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "30. 8. 1892",
+      "date_when" : "1892-08-30",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "29. 9. 1892",
+      "date_when" : "1892-09-29",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "9. 10. 1892",
+      "date_when" : "1892-10-09",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "12. 10. 1892",
+      "date_when" : "1892-10-12",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "15. 10. 1892",
+      "date_when" : "1892-10-15",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "9. 11. 1892",
+      "date_when" : "1892-11-09",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "13. 11. 1892",
+      "date_when" : "1892-11-13",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "17. 11. 1892",
+      "date_when" : "1892-11-17",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "18. 11. 1892",
+      "date_when" : "1892-11-18",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "19. 11. 1892",
+      "date_when" : "1892-11-19",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "27. 11. 1892",
+      "date_when" : "1892-11-27",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "30. 11. 1892",
+      "date_when" : "1892-11-30",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "14. 12. 1892",
+      "date_when" : "1892-12-14",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "16. 12. 1892",
+      "date_when" : "1892-12-16",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "31. 12. 1892",
+      "date_when" : "1892-12-31",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "16. 1. 1892",
+      "date_when" : "1892-01-16",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "17. 1. 1892",
+      "date_when" : "1892-01-17",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "18. 1. 1897",
+      "date_when" : "1897-01-18",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "2. 2. 1893",
+      "date_when" : "1893-02-02",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "4. 2. 1893",
+      "date_when" : "1893-02-04",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "16. 2. 1893",
+      "date_when" : "1893-02-16",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "19. 2. 1897",
+      "date_when" : "1897-02-19",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "20. 3. 1893",
+      "date_when" : "1893-03-20",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "29. 3. 1893",
+      "date_when" : "1893-03-29",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "4. 4. 1893",
+      "date_when" : "1893-04-04",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "22. 4. 1893",
+      "date_when" : "1893-04-22",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "26. 4. 1893",
+      "date_when" : "1893-04-26",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "29. 4. 1893",
+      "date_when" : "1893-04-29",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "23. 5. 1893",
+      "date_when" : "1893-05-23",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "29. 5. 1892",
+      "date_when" : "1892-05-29",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "2. 6. 1893",
+      "date_when" : "1893-06-02",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Goldbeck, Eduard",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "15. 3. 1909",
+      "date_when" : "1909-03-15",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Goldmann, Paul",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "21. 11. 1896",
+      "date_when" : "1896-11-21",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : true
+    },
+    {
+      "recv" : "22. 11. 1896",
+      "date_when" : "1896-11-22",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Gomperz, Elise",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "15. 12. 1910",
+      "date_when" : "1910-12-15",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Gomperz, Theodor",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "15. 12. 1910",
+      "date_when" : "1910-12-15",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Graetzer, Walter",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "3. 5. 1910",
+      "date_when" : "1910-05-03",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Granville-Barker,",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Harley",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "9. 2. 1911",
+      "date_when" : "1911-02-09",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Grein, Jack Thomas",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "16. 10. 1909",
+      "date_when" : "1909-10-16",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Grossmann, Stefan",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "12. 2. 1912",
+      "date_when" : "1912-02-12",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Gussmann, Elisabeth",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "3. 1. 1906",
+      "date_when" : "1906-01-03",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "29. 4. 1912",
+      "date_when" : "1912-04-29",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Gussmann, Olga",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "s. Schnitzler, Olga",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Harden, Maximilian",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "etwa 11. 12. 1904.",
+      "date_when" : "1904-12-11",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : true
+    },
+    {
+      "recv" : "Hauptmann, Gerhart",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "15. 7. 1899",
+      "date_when" : "1899-07-15",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "25. 8. 1899",
+      "date_when" : "1899-08-25",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Hauschner, Augus te",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "23. 1. 1909",
+      "date_when" : "1909-01-23",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Heeger, Jeanette",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "April ? 1888",
+      "date_when" : "1888-04",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : true
+    },
+    {
+      "recv" : "6. 8. 1888",
+      "date_when" : "1888-08-06",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "27. 7. 1889",
+      "date_when" : "1889-07-27",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : true
+    },
+    {
+      "recv" : "7. 9. 1889",
+      "date_when" : "1889-09-07",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Ende 1889",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Heller, Egon",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "28. 12. 1912",
+      "date_when" : "1912-12-28",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Heller, Hugo",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Ende September 1906",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : true
+    },
+    {
+      "recv" : "Heller, Wilhelm",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "15. 7. 1898",
+      "date_when" : "1898-07-15",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Herzl, Theodor",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "25. 7. 1892",
+      "date_when" : "1892-07-25",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "5. 8. 1892",
+      "date_when" : "1892-08-05",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "12. 11.1892",
+      "date_when" : "1892-11-12",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "30.12. 1892",
+      "date_when" : "1892-12-30",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "13. 6. 1893",
+      "date_when" : "1893-06-13",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "21. 6. 1893",
+      "date_when" : "1893-06-21",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "2. 10. 1893",
+      "date_when" : "1893-10-02",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "10. 12. 1893",
+      "date_when" : "1893-12-10",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "5. 7. 1894",
+      "date_when" : "1894-07-05",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "10. 11. 1894",
+      "date_when" : "1894-11-10",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "17. 11.1894",
+      "date_when" : "1894-11-17",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "30. 11. 1894",
+      "date_when" : "1894-11-30",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "15. 12. 1894",
+      "date_when" : "1894-12-15",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "19. 12. 1894",
+      "date_when" : "1894-12-19",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "26. 12. 1894",
+      "date_when" : "1894-12-26",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "7. 1. 1895",
+      "date_when" : "1895-01-07",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "14. 1. 1895",
+      "date_when" : "1895-01-14",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "30. 1. 1895",
+      "date_when" : "1895-01-30",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "18. 2. 1895",
+      "date_when" : "1895-02-18",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "9. 3. 1895",
+      "date_when" : "1895-03-09",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "27. 3. 1895",
+      "date_when" : "1895-03-27",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "6. 4. 1895",
+      "date_when" : "1895-04-06",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "1. 5. 1895",
+      "date_when" : "1895-05-01",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "16. 5. 1895",
+      "date_when" : "1895-05-16",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "30. 6. 1895",
+      "date_when" : "1895-06-30",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "15. 11. 1900",
+      "date_when" : "1900-11-15",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "17. 11. 1900",
+      "date_when" : "1900-11-17",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "22. 12. 1900",
+      "date_when" : "1900-12-22",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "24. 12. 1900",
+      "date_when" : "1900-12-24",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Heuberger, Richard",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "16. 6. 1910",
+      "date_when" : "1910-06-16",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Hofmannsthal,",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Hugo von",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "27. 7. 1891",
+      "date_when" : "1891-07-27",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "10. 7. 1895",
+      "date_when" : "1895-07-10",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "4. 8. 1895",
+      "date_when" : "1895-08-04",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "7. 8. 1896",
+      "date_when" : "1896-08-07",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "26. 4. 1897",
+      "date_when" : "1897-04-26",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "8. 7. 1897",
+      "date_when" : "1897-07-08",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "19. 7. 1898",
+      "date_when" : "1898-07-19",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : true
+    },
+    {
+      "recv" : "22. 3. 1899",
+      "date_when" : "1899-03-22",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "17. 7. 1900",
+      "date_when" : "1900-07-17",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "7. 1. 1903",
+      "date_when" : "1903-01-07",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "26. 6. 1903",
+      "date_when" : "1903-06-26",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "9. 8. 1904",
+      "date_when" : "1904-08-09",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "2. 11. 1910",
+      "date_when" : "1910-11-02",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Hofreiter, Friedrich",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "20. 3. 1912",
+      "date_when" : "1912-03-20",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Holzmann, Michael",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "7. 3. 1912",
+      "date_when" : "1912-03-07",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Janiczek, Irma",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "9. 6. 1909",
+      "date_when" : "1909-06-09",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Jankolowitz, Samuel",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "16. 12. 1908",
+      "date_when" : "1908-12-16",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Jauner, Franz",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "März 1898",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : true
+    },
+    {
+      "recv" : "Junker, Kurt",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "13. 6. 1912",
+      "date_when" : "1912-06-13",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Kapp, Julius",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "13. 6. 1911",
+      "date_when" : "1911-06-13",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "20. 6. 1911",
+      "date_when" : "1911-06-20",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Kaufmann, Eugenie",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Anfang März 1903",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : true
+    },
+    {
+      "recv" : "Kerr, Alfred",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "5. 1. 1905",
+      "date_when" : "1905-01-05",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Kienzl, Hermann",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "17. 4. 1907",
+      "date_when" : "1907-04-17",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Klaar, Alfred",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "12. 9. 1903",
+      "date_when" : "1903-09-12",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Klemperer, Victor",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "4. 2. 1911",
+      "date_when" : "1911-02-04",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "König, Otto",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "10. 6. 1911",
+      "date_when" : "1911-06-10",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Kramer, Leopold",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "15. 12. 1908",
+      "date_when" : "1908-12-15",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Das literarische",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Echo, Redaktion",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "1. 12. 1906",
+      "date_when" : "1906-12-01",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Loewe, Theodor",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "9. 10. 1911",
+      "date_when" : "1911-10-09",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Lothar, Rudolf",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "26. 2. 1912",
+      "date_when" : "1912-02-26",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Mann, Heinrich",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "1. 6. 1911",
+      "date_when" : "1911-06-01",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "26. 6. 1911",
+      "date_when" : "1911-06-26",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Markbreiter, Felix",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "und Julie",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "19. 5. 1909",
+      "date_when" : "1909-05-19",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Markbreiter, Julie",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "14. 11. 1910",
+      "date_when" : "1910-11-14",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "3. 2. 1912",
+      "date_when" : "1912-02-03",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Matras, Ferdinand",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "27. 5. 1909",
+      "date_when" : "1909-05-27",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Mayer, Alfred",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "10. 10. 1912",
+      "date_when" : "1912-10-10",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Mell, Max",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "26. 10. 1906",
+      "date_when" : "1906-10-26",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Mensdorff-Pouilly-",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Dietrichstein.",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Albert Graf",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "2. 6. 1912",
+      "date_when" : "1912-06-02",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Meyerhof-Hildeck,",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Leonie",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "7. 12. 1908",
+      "date_when" : "1908-12-07",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "15. 12. 1908",
+      "date_when" : "1908-12-15",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Minor, Jakob",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "10. 2. 1908",
+      "date_when" : "1908-02-10",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Morgen",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Redaktion",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "5. 12. 190",
+      "date_when" : "0190-12-04",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "21. 12. 190",
+      "date_when" : "0190-12-20",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Müller, Leopold",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "18. 1. 1894",
+      "date_when" : "1894-01-18",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Anfang März 1898",
+      "date_when" : "1898-03",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : true
+    },
+    {
+      "recv" : "Mitte März 1898",
+      "date_when" : "1898-03",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : true
+    },
+    {
+      "recv" : "Nabl, Franz",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "6. 2. 1907",
+      "date_when" : "1907-02-06",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Nagels tock, Walter",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "21. 3. 1904",
+      "date_when" : "1904-03-21",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Nemirowitsch-",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Dantschenko,",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Wladimir",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "1. 10. 1912",
+      "date_when" : "1912-10-01",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Neumann, Franz",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "15. 9. 1908",
+      "date_when" : "1908-09-15",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Neumann, Wilhelm",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "19. 12. 1912",
+      "date_when" : "1912-12-19",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "N. N.",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "21. 6. 1895",
+      "date_when" : "1895-06-21",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "20. 12. 1906",
+      "date_when" : "1906-12-20",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "28. 12. 1911",
+      "date_when" : "1911-12-28",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Oettinger, Karl",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "20. 3. 1905",
+      "date_when" : "1905-03-20",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Oppenheimer, Felix",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Freiherr von",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "22. 8. 1909",
+      "date_when" : "1909-08-22",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Pick, Gustav",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "24. 1. 1908",
+      "date_when" : "1908-01-24",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Preindlsberger,",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Milena",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "12. 4. 1905",
+      "date_when" : "1905-04-12",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Reinhard, Marie",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "16. 7. 1895",
+      "date_when" : "1895-07-16",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "17. 7. 1895",
+      "date_when" : "1895-07-17",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "21. 7. 1895",
+      "date_when" : "1895-07-21",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "4. 8. 1895",
+      "date_when" : "1895-08-04",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "4. 9. 1895",
+      "date_when" : "1895-09-04",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : true
+    },
+    {
+      "recv" : "9. 2. 1896",
+      "date_when" : "1896-02-09",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "7. 7. 1896",
+      "date_when" : "1896-07-07",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "7. 7. 1896",
+      "date_when" : "1896-07-07",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "13. 8. 1896",
+      "date_when" : "1896-08-13",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "19. 8. 1896",
+      "date_when" : "1896-08-19",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "23. 8. 1896",
+      "date_when" : "1896-08-23",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "17. 6. 1897",
+      "date_when" : "1897-06-17",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "21. 6. 1897",
+      "date_when" : "1897-06-21",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "22. 6. 1897",
+      "date_when" : "1897-06-22",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "27. 6. 1897",
+      "date_when" : "1897-06-27",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "27. 6. 1897",
+      "date_when" : "1897-06-27",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "28. 6. 1897",
+      "date_when" : "1897-06-28",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "18. 7. 1897",
+      "date_when" : "1897-07-18",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "23. 7. 1897",
+      "date_when" : "1897-07-23",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "24. 11. 1897",
+      "date_when" : "1897-11-24",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "26. 11. 1897",
+      "date_when" : "1897-11-26",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "21. 7. 1898",
+      "date_when" : "1898-07-21",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "10. 8. 1898",
+      "date_when" : "1898-08-10",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : true
+    },
+    {
+      "recv" : "31. 8. 1898",
+      "date_when" : "1898-08-31",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : true
+    },
+    {
+      "recv" : "3. 10. 1898",
+      "date_when" : "1898-10-03",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "4. 10. 1898",
+      "date_when" : "1898-10-04",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "5. 10. 1898",
+      "date_when" : "1898-10-05",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "7. 10. 1898",
+      "date_when" : "1898-10-07",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "9. 10. 1898",
+      "date_when" : "1898-10-09",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "10. 10. 1898",
+      "date_when" : "1898-10-10",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : true
+    },
+    {
+      "recv" : "11. 10. 1898",
+      "date_when" : "1898-10-11",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Reinhardt, Max",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "24. 12. 1909",
+      "date_when" : "1909-12-24",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Rilke, Rainer Maria",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "13. 4. 1899",
+      "date_when" : "1899-04-13",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "4. 7. 1901",
+      "date_when" : "1901-07-04",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "7. 12. 1901",
+      "date_when" : "1901-12-07",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Rosenbaum, Richard",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "3. 12. 1910",
+      "date_when" : "1910-12-03",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Rosenheim, Richard",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "13. 1. 1911",
+      "date_when" : "1911-01-13",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Rotmund, Ernst",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "8. 6. 1911",
+      "date_when" : "1911-06-08",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Salkind, Alexander",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "16. 1. 1907",
+      "date_when" : "1907-01-16",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Salten, Felix",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "21. 3. 1892",
+      "date_when" : "1892-03-21",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "5. 7. 1893",
+      "date_when" : "1893-07-05",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "14. 8. 1893",
+      "date_when" : "1893-08-14",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : true
+    },
+    {
+      "recv" : "17. 8. 1893",
+      "date_when" : "1893-08-17",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "26. 4. 1897",
+      "date_when" : "1897-04-26",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "24. 9. 1898",
+      "date_when" : "1898-09-24",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "4. 9. 1899",
+      "date_when" : "1899-09-04",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "7. 11. 1903",
+      "date_when" : "1903-11-07",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "10. 11. 1903",
+      "date_when" : "1903-11-10",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "12. 11. 1903",
+      "date_when" : "1903-11-12",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "13. 4. 1904",
+      "date_when" : "1904-04-13",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "10. 1. 1905",
+      "date_when" : "1905-01-10",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "11. 4. 1905",
+      "date_when" : "1905-04-11",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "20. 12. 1905",
+      "date_when" : "1905-12-20",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "27. 4. 1906",
+      "date_when" : "1906-04-27",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "16. 5. 1906",
+      "date_when" : "1906-05-16",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "18. 1. 1907",
+      "date_when" : "1907-01-18",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "5. 8. 1907",
+      "date_when" : "1907-08-05",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "30. 5. 1908",
+      "date_when" : "1908-05-30",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "20. 10. 1911",
+      "date_when" : "1911-10-20",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Sandrock, Adele",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "4. 12. 1893",
+      "date_when" : "1893-12-04",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "6. 12. 1893",
+      "date_when" : "1893-12-06",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "29. 12. 1893",
+      "date_when" : "1893-12-29",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "17. 5. 1894",
+      "date_when" : "1894-05-17",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "22. 5. 1894",
+      "date_when" : "1894-05-22",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : true
+    },
+    {
+      "recv" : "Scherlag, Marek",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "11. 1. 1909",
+      "date_when" : "1909-01-11",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Schlundt, Carl",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "1. 6. 1904",
+      "date_when" : "1904-06-01",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Schmidt, Marie",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "3. 2. 1904",
+      "date_when" : "1904-02-03",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Schnitzler, Heinrich",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "19. 12. 1908",
+      "date_when" : "1908-12-19",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "24. 4. 1909",
+      "date_when" : "1909-04-24",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "24. 2. 1911",
+      "date_when" : "1911-02-24",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Schnitzler, Johann",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "zum 10. 4. 1875",
+      "date_when" : "1875-04-10",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : true
+    },
+    {
+      "recv" : "10. 4. 1878",
+      "date_when" : "1878-04-10",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Sommer 1884?",
+      "date_when" : "1884",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : true
+    },
+    {
+      "recv" : "Sommer 1884",
+      "date_when" : "1884",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "21. 9. 1886",
+      "date_when" : "1886-09-21",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "etwa 10. 5. 1888",
+      "date_when" : "1888-05-10",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : true
+    },
+    {
+      "recv" : "Schnitzler, Johann",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "und Louise",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "7. 4. 1888",
+      "date_when" : "1888-04-07",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "etwa 10. 4. 1888",
+      "date_when" : "1888-04-10",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "21. 4. 1888",
+      "date_when" : "1888-04-21",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : true
+    },
+    {
+      "recv" : "23. 5. 1888",
+      "date_when" : "1888-05-23",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "15. 6. 1888",
+      "date_when" : "1888-06-15",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "25. 6. 1888",
+      "date_when" : "1888-06-25",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "9. 9. 1889",
+      "date_when" : "1889-09-09",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : true
+    },
+    {
+      "recv" : "16. 9. 1889",
+      "date_when" : "1889-09-16",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Anfang August 1890",
+      "date_when" : "1890-08",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "17. 8. 1890",
+      "date_when" : "1890-08-17",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : true
+    },
+    {
+      "recv" : "Schnitzler, Louise",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "17. 7. 1875",
+      "date_when" : "1875-07-17",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "24. 7. 1882",
+      "date_when" : "1882-07-24",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "9. 8. 1886",
+      "date_when" : "1886-08-09",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "16. 7. 1888",
+      "date_when" : "1888-07-16",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "7. 7. 1893",
+      "date_when" : "1893-07-07",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "12. 7. 1893",
+      "date_when" : "1893-07-12",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "22. 6. 1901",
+      "date_when" : "1901-06-22",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Schnitzler, Olga",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "21. 6. 1899",
+      "date_when" : "1899-06-21",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "6. 7. 1899",
+      "date_when" : "1899-07-06",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "25. 7. 1900",
+      "date_when" : "1900-07-25",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : true
+    },
+    {
+      "recv" : "4. 8. 1900",
+      "date_when" : "1900-08-04",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "23. 8. 1900",
+      "date_when" : "1900-08-23",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "19. 10. 1900",
+      "date_when" : "1900-10-19",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "5. 3. 1901",
+      "date_when" : "1901-03-05",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "8. 3. 1901",
+      "date_when" : "1901-03-08",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "25. 3. 1901",
+      "date_when" : "1901-03-25",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "26. 3. 1901",
+      "date_when" : "1901-03-26",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "27. 3. 1901",
+      "date_when" : "1901-03-27",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "28. 3. 1901",
+      "date_when" : "1901-03-28",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "29. 3. 1901",
+      "date_when" : "1901-03-29",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "31. 3. 1901",
+      "date_when" : "1901-03-31",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "31. 3. 1901",
+      "date_when" : "1901-03-31",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : true
+    },
+    {
+      "recv" : "1. 4. 1901",
+      "date_when" : "1901-04-01",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "2. 4. 1901",
+      "date_when" : "1901-04-02",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "4. 4. 1901",
+      "date_when" : "1901-04-04",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "5. 4. 1901",
+      "date_when" : "1901-04-05",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "6. 4. 1901",
+      "date_when" : "1901-04-06",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "9. 4. 1901",
+      "date_when" : "1901-04-09",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "9. 4. 1901",
+      "date_when" : "1901-04-09",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "11. 4. 1901",
+      "date_when" : "1901-04-11",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "12. 4. 1901",
+      "date_when" : "1901-04-12",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "14. 4. 1901",
+      "date_when" : "1901-04-14",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "14. 4. 1901",
+      "date_when" : "1901-04-14",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "16. 4. 1901",
+      "date_when" : "1901-04-16",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "29. 12. 1901",
+      "date_when" : "1901-12-29",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "30. 12. 1901",
+      "date_when" : "1901-12-30",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "31. 12. 1901",
+      "date_when" : "1901-12-31",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : true
+    },
+    {
+      "recv" : "1. 1. 1902",
+      "date_when" : "1902-01-01",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "19. 10. 1902",
+      "date_when" : "1902-10-19",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "24. 2. 1903",
+      "date_when" : "1903-02-24",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "26. 2. 1903",
+      "date_when" : "1903-02-26",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : true
+    },
+    {
+      "recv" : "8. 4. 1903",
+      "date_when" : "1903-04-08",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "10. 4. 1903",
+      "date_when" : "1903-04-10",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "10. 4. 1903",
+      "date_when" : "1903-04-10",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "14. 11. 1904",
+      "date_when" : "1904-11-14",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "15. 11. 1904",
+      "date_when" : "1904-11-15",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "18. 11. 1904",
+      "date_when" : "1904-11-18",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "19. 11. 1904",
+      "date_when" : "1904-11-19",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "21. 11. 1904",
+      "date_when" : "1904-11-21",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "24. 8. 1909",
+      "date_when" : "1909-08-24",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "25. 8. 1909",
+      "date_when" : "1909-08-25",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "27. 8. 1909",
+      "date_when" : "1909-08-27",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "28. 8. 1909",
+      "date_when" : "1909-08-28",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "29. 8. 1909",
+      "date_when" : "1909-08-29",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "30. 8. 1909",
+      "date_when" : "1909-08-30",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "26. 7. 1910",
+      "date_when" : "1910-07-26",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "30. 10. 1911",
+      "date_when" : "1911-10-30",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "31. 10. 1911",
+      "date_when" : "1911-10-31",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "31. 10. 1911",
+      "date_when" : "1911-10-31",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "1. 11. 1911",
+      "date_when" : "1911-11-01",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "12. 11. 1912",
+      "date_when" : "1912-11-12",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Schwadron, Abraham",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "10. 1. 1911",
+      "date_when" : "1911-01-10",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Schwarzkopf, Gustav",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "19. 7. 1895",
+      "date_when" : "1895-07-19",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "28. 7. 1895",
+      "date_when" : "1895-07-28",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "9. 5. 1897",
+      "date_when" : "1897-05-09",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "23. 5. 1897",
+      "date_when" : "1897-05-23",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "25. 8. 1899",
+      "date_when" : "1899-08-25",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "9. 9. 1899",
+      "date_when" : "1899-09-09",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "29. 9. 1899",
+      "date_when" : "1899-09-29",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "9. 7. 1900",
+      "date_when" : "1900-07-09",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Seligmann, Herr",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "1. 2. 1909",
+      "date_when" : "1909-02-01",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Servaes, Franz",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "23. 9. 1908",
+      "date_when" : "1908-09-23",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Singer, Else",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "30. 10. 1894",
+      "date_when" : "1894-10-30",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "12. 12. 1894",
+      "date_when" : "1894-12-12",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "24. 12. 1894",
+      "date_when" : "1894-12-24",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "7. 6. 1895",
+      "date_when" : "1895-06-07",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "27. 7. 1895",
+      "date_when" : "1895-07-27",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "28. 9. 1895",
+      "date_when" : "1895-09-28",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Sonnenthal, Adolf",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "von",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "19. 12. 1892",
+      "date_when" : "1892-12-19",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "20. 12. 1904",
+      "date_when" : "1904-12-20",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "31. 5. 1906",
+      "date_when" : "1906-05-31",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Sonnenthal, Hermine",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "von",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "11. 5. 1911",
+      "date_when" : "1911-05-11",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Specht, Richard",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "4. 3. 1896",
+      "date_when" : "1896-03-04",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Stanislawski,",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Konstantin",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Sergejewitsch",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "30. 11. 1911",
+      "date_when" : "1911-11-30",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Stefan, Paul",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "4. 5. 1910",
+      "date_when" : "1910-05-04",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Steinrück, Elisabeth",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "s. Gussmann,",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Elisabeth",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Sternheim, Carl",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "27. 12. 1911",
+      "date_when" : "1911-12-27",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Strecker, Ludwig",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "17. 12. 1909",
+      "date_when" : "1909-12-17",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Sudermann, Hermann",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "29. 3. 1907",
+      "date_when" : "1907-03-29",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Sumbatoff, Alexander",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Fürst",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "26. 4. 1906",
+      "date_when" : "1906-04-26",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Swesditsch, Peter",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "18. 1. 1910",
+      "date_when" : "1910-01-18",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Teweles, Heinrich",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Mitte Januar",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "1893",
+      "date_when" : "1893-01-01",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "6. 5. 1911",
+      "date_when" : "1911-05-06",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Ubell, Hermann",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "16. 10. 1898",
+      "date_when" : "1898-10-16",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Unruh, Fritz von",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "15. 2. 1912",
+      "date_when" : "1912-02-15",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Vajda, Ladislaus",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "15. 3. 1907",
+      "date_when" : "1907-03-15",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Vaucaire, Maurice",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Anfang 1904",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Vollmoeller, Karl",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "2. 6. 1904",
+      "date_when" : "1904-06-02",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "2. 1. 1905",
+      "date_when" : "1905-01-02",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "10. 1. 1905",
+      "date_when" : "1905-01-10",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "26. 9. 1905",
+      "date_when" : "1905-09-26",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Waissnix, Olga",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "22. 10. 1886",
+      "date_when" : "1886-10-22",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : true
+    },
+    {
+      "recv" : "31. 10. 1886",
+      "date_when" : "1886-10-31",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "12. 11.1886",
+      "date_when" : "1886-11-12",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "21. 6. 1887",
+      "date_when" : "1887-06-21",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : true
+    },
+    {
+      "recv" : "16. 9. 1887",
+      "date_when" : "1887-09-16",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : true
+    },
+    {
+      "recv" : "31. 12. 1887",
+      "date_when" : "1887-12-31",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Ende April 1888",
+      "date_when" : "1888-04",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : true
+    },
+    {
+      "recv" : "24. 5. 1888",
+      "date_when" : "1888-05-24",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Anfang Juni 1888",
+      "date_when" : "1888-06",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : true
+    },
+    {
+      "recv" : "25. 2. 1889",
+      "date_when" : "1889-02-25",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "27. 8. 1889",
+      "date_when" : "1889-08-27",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "September 1890",
+      "date_when" : "1890-09",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : true
+    },
+    {
+      "recv" : "14. 11. 1890",
+      "date_when" : "1890-11-14",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "16. 1. 1891",
+      "date_when" : "1891-01-16",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Februar 1891",
+      "date_when" : "1891-02",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : true
+    },
+    {
+      "recv" : "7. 4. 1893",
+      "date_when" : "1893-04-07",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "26. 10. 1893",
+      "date_when" : "1893-10-26",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "27. 11. 1892",
+      "date_when" : "1892-11-27",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "28. 11. 1893",
+      "date_when" : "1893-11-28",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "11. 12. 1893",
+      "date_when" : "1893-12-11",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "30. 9. 1895",
+      "date_when" : "1895-09-30",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "16. 10. 1895",
+      "date_when" : "1895-10-16",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "27. 6. 1896",
+      "date_when" : "1896-06-27",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "14. 8. 1896",
+      "date_when" : "1896-08-14",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "26. 2. 1897",
+      "date_when" : "1897-02-26",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "29. 3. 1897",
+      "date_when" : "1897-03-29",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Wengerova, Zinaida",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "23. 1. 1910",
+      "date_when" : "1910-01-23",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Weymetal, Wilhelm",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "von",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "13. 5. 1902",
+      "date_when" : "1902-05-13",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Zimmels, Salomon",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "10. 10. 1912",
+      "date_when" : "1912-10-10",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    },
+    {
+      "recv" : "Zobeltitz, Hanns von",
+      "date_when" : "",
+      "dateLen" : 0,
+      "isNamePart" : true,
+      "uncertain" : false
+    },
+    {
+      "recv" : "19. 10. 1907",
+      "date_when" : "1907-10-18",
+      "dateLen" : 10,
+      "isNamePart" : false,
+      "uncertain" : false
+    }
+  ]
+}
