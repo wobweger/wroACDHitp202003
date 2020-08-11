@@ -1,0 +1,96 @@
++++++ Prefix
+{
+    "teiHeader": {
+        "fileDesc": {
+            "titleStmt": {
+                "title": "Arthur Schnitzler Briefe 1913 1931",
+                "editor": [{
+                    "#text": "Walter Obweger",
+                    "email": "walter.obweger@oeaw.ac.at"
+                }]
+            },
+            "publicationStmt": {
+                "publisher": [{
+                    "ref": {
+                        "#text": "Martin Anton Müller",
+                        "target": "https://schnitzler-briefe.acdh.oeaw.ac.at"
+                    }
+                }],
+                "idno": {
+                    "type": "url",
+                    "#text": "https://shared.acdh.oeaw.ac.at/schnitzler-briefe/cmif/1984_Briefe-1913_1931.pdf"
+                },
+                "availability": {
+                    "licence": {
+                        "#text": "CC0",
+                        "target": "https://creativecommons.org/licenses/by/null/"
+                    }
+                },
+                "date": {
+                    "when": "2020-08-09T09:49:16.907-02:00"
+                }
+            },
+            "sourceDesc": {
+                "bibl": [{
+                    "xml:id": "",
+                    "type": "print",
+                    "#text": "1984_Arthur Schnitzler Briefe 1913 1931"
+                }]
+            }
+        },
+        "profileDesc": {
+            "correspDesc": [
+----- Prefix
++++++ Row Template
+                {
+                    "source": "#sb5b8e07-e0c8-47e6-8add-494150f56e37",
+                    "correspAction": [{
+                        "type": "sent",
+                        "persName": [{
+                            "#text": "Schnitzler, Arthur",
+                            "ref": "http://d-nb.info/gnd/118609807"
+                        }],
+                        "placeName": [{
+                            "#text": "Wien",
+                            "ref": "http://www.geonames.org/2761369"
+                        }],
+                        "date": {
+                            "when": {{jsonize(cells["_ - date_when"].value)}},
+                            "evidence": {{jsonize(cells["evidence"].value)}},
+                            "#text": {{jsonize(cells["_ - date_text"].value)}}
+                        }
+                    }, {
+                        "type": "received",
+                        "persName": [{
+                            "#text": {{jsonize(cells["_ - recv"].value)}},
+                            "ref": "http://d-nb.info/gnd/"
+                        }]
+                    }]
+                }
+----- Row Template
++++++ Suffix
+            ]
+            }
+        }
+    }
+----- Suffix
+
+OpenRefine
+
+{
+    "rows" : [
+
+-----
+        {
+            "_ - recv" : {{jsonize(cells["_ - recv"].value)}},
+            "_ - date_when" : {{jsonize(cells["_ - date_when"].value)}},
+            "_ - date_text" : {{jsonize(cells["_ - date_text"].value)}},
+            "_ - uncertain" : {{jsonize(cells["_ - uncertain"].value)}},
+            "_ - suspicious" : {{jsonize(cells["_ - suspicious"].value)}}
+          }
+-----
+,
+-----
+
+]
+}

@@ -1,0 +1,3812 @@
+{
+  "rows" : [
+    {
+      "_ - recv" : "Abeles, Otto",
+      "_ - date_when" : "1924-02-09",
+      "_ - date_text" : "9. 2. 1924",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "d'Albert, Ida",
+      "_ - date_when" : "1913-05-13",
+      "_ - date_text" : "13. 5. 1913",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Altenberg, Peter",
+      "_ - date_when" : "1913-04-22",
+      "_ - date_text" : "22. 4. 1913",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Amon, Anton",
+      "_ - date_when" : "1924-11-24",
+      "_ - date_text" : "24. 11. 1924",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Andrejewana, Marja,Fjodorowna",
+      "_ - date_when" : "1921-04-18",
+      "_ - date_text" : "18. 4. 1921",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Andrian, Leopold,Freiherr von",
+      "_ - date_when" : "1913-01-22",
+      "_ - date_text" : "22. 1. 1913",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Apel, Paul",
+      "_ - date_when" : "1913-10-30",
+      "_ - date_text" : "30. 10. 1913",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Apel, Paul",
+      "_ - date_when" : "1915-12-13",
+      "_ - date_text" : "13. 12. 1915",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Apel, Paul",
+      "_ - date_when" : "1916-01-10",
+      "_ - date_text" : "10. 1. 1916",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Arnold, Robert",
+      "_ - date_when" : "1923-03-05",
+      "_ - date_text" : "5. 3. 1923",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Asch, Joseph S.",
+      "_ - date_when" : "1924-08-04",
+      "_ - date_text" : "4. 8. 1924",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Asch, Joseph S.",
+      "_ - date_when" : "1924-10-16",
+      "_ - date_text" : "16. 10. 1924",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Auerbach, Alfred",
+      "_ - date_when" : "1931-10-07",
+      "_ - date_text" : "7. 10. 1931",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Auernheimer, Raoul",
+      "_ - date_when" : "1926-04-22",
+      "_ - date_text" : "22. 4. 1926",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Auernheimer, Raoul",
+      "_ - date_when" : "1928-05-14",
+      "_ - date_text" : "14. 5. 1928",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Auernheimer, Raoul",
+      "_ - date_when" : "1928-05-17",
+      "_ - date_text" : "17. 5. 1928",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Ausubel, Nathan",
+      "_ - date_when" : "1924-07-17",
+      "_ - date_text" : "17. 7. 1924",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Bach, David Josef",
+      "_ - date_when" : "1922-05-26",
+      "_ - date_text" : "26. 5. 1922",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Bahr, Hermann",
+      "_ - date_when" : "1913-04-22",
+      "_ - date_text" : "22. 4. 1913",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Bahr, Hermann",
+      "_ - date_when" : "1914-06-12",
+      "_ - date_text" : "12. 6. 1914",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Bahr, Hermann",
+      "_ - date_when" : "1923-07-01",
+      "_ - date_text" : "01. 7. 1923",
+      "_ - uncertain" : true,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Barnay, Paul",
+      "_ - date_when" : "1924-07-21",
+      "_ - date_text" : "21. 7. 1924",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Barnowsky, Victor",
+      "_ - date_when" : "",
+      "_ - date_text" : "30 10. 1914",
+      "_ - uncertain" : true,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Barnowsky, Victor",
+      "_ - date_when" : "1914-11-18",
+      "_ - date_text" : "18. 11. 1914",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Barnowsky, Victor",
+      "_ - date_when" : "1915-05-31",
+      "_ - date_text" : "31. 5. 1915",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Bauer, Ludwig",
+      "_ - date_when" : "1920-02-16",
+      "_ - date_text" : "16. 2. 1920",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Beach, Sylvia",
+      "_ - date_when" : "1927-01-13",
+      "_ - date_text" : "13. 1. 1927",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Bech, Bodil",
+      "_ - date_when" : "1929-07-22",
+      "_ - date_text" : "22. 7. 1929",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Beer-Hofmann,,Richard",
+      "_ - date_when" : "1917-07-23",
+      "_ - date_text" : "23. 7. 1917",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Beiderwieden,,Franz",
+      "_ - date_when" : "1923-12-22",
+      "_ - date_text" : "22. 12. 1923",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Bendiener, Oscar",
+      "_ - date_when" : "1930-05-01",
+      "_ - date_text" : "1. 5. 1930",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Bergner, Elisabeth",
+      "_ - date_when" : "1931-04-09",
+      "_ - date_text" : "9. 4. 1931",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Bergstroem, Oskar",
+      "_ - date_when" : "1921-12-28",
+      "_ - date_text" : "28. 12. 1921",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Bernau, Alfred",
+      "_ - date_when" : "1922-02-06",
+      "_ - date_text" : "6. 2. 1922",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Bernau, Alfred",
+      "_ - date_when" : "1922-03-27",
+      "_ - date_text" : "27. 3. 1922",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Bernau, Alfred",
+      "_ - date_when" : "1926-07-22",
+      "_ - date_text" : "22. 7. 1926",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Bernays, Murray C.",
+      "_ - date_when" : "1924-06-11",
+      "_ - date_text" : "11. 6. 1924",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Bernheimer, Ilse",
+      "_ - date_when" : "1918-03-20",
+      "_ - date_text" : "20. 3. 1918",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Bernstein, Herman",
+      "_ - date_when" : "1923-10-08",
+      "_ - date_text" : "8. 10. 1923",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Bernstein, Herman",
+      "_ - date_when" : "1924-03-19",
+      "_ - date_text" : "19. 3. 1924",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Berthensson, Sergius,von",
+      "_ - date_when" : "1921-10-17",
+      "_ - date_text" : "17. 10. 1921",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Berthensson, Sergius,von",
+      "_ - date_when" : "1921-11-28",
+      "_ - date_text" : "28. 11. 1921",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Bettelheim, Anton",
+      "_ - date_when" : "1925-12-07",
+      "_ - date_text" : "7. 12. 1925",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Bezirksgericht Fünf-,haus",
+      "_ - date_when" : "1922-09-18",
+      "_ - date_text" : "18. 9. 1922",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Bittner, Julius",
+      "_ - date_when" : "1913-02-03",
+      "_ - date_text" : "3. 2. 1913",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Bittner, Julius",
+      "_ - date_when" : "1922-02-10",
+      "_ - date_text" : "10. 2. 1922",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Bittner, Julius",
+      "_ - date_when" : "1922-03-07",
+      "_ - date_text" : "7. 3. 1922",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Block, Paul",
+      "_ - date_when" : "1915-01-27",
+      "_ - date_text" : "27. 1. 1915",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Börsenverein der,Deutschen Buch-,händler",
+      "_ - date_when" : "1929-10-31",
+      "_ - date_text" : "31. 10. 1929",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Boner, Georgette",
+      "_ - date_when" : "1927-03-19",
+      "_ - date_text" : "19. 3. 1927",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Boner, Georgette",
+      "_ - date_when" : "1929-01-29",
+      "_ - date_text" : "29. 1. 1929",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Boner, Georgette",
+      "_ - date_when" : "1930-06-02",
+      "_ - date_text" : "2. 6. 1930",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Boner, Georgette",
+      "_ - date_when" : "1931-06-20",
+      "_ - date_text" : "20. 6. 1931",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Book-of-the-Month,Club",
+      "_ - date_when" : "1929-02-04",
+      "_ - date_text" : "4. 2. 1929",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Book-of-the-Month,Club",
+      "_ - date_when" : "1929-05-23",
+      "_ - date_text" : "23. 5. 1929",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Book-of-the-Month,Club",
+      "_ - date_when" : "1929-07-13",
+      "_ - date_text" : "13. 7. 1929",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Book-of-the-Month,Club",
+      "_ - date_when" : "1930-02-01",
+      "_ - date_text" : "1. 2. 1930",
+      "_ - uncertain" : true,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Book-of-the-Month,Club",
+      "_ - date_when" : "1930-02-12",
+      "_ - date_text" : "12. 2. 1930",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Book-of-the-Month,Club",
+      "_ - date_when" : "1930-06-26",
+      "_ - date_text" : "26. 6. 1930",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Book-of-the-Month,Club",
+      "_ - date_when" : "1930-11-10",
+      "_ - date_text" : "10. 11. 1930",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Book-of-the-Month,Club",
+      "_ - date_when" : "1931-01-19",
+      "_ - date_text" : "19. 1. 1931",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Book-of-the-Month,Club",
+      "_ - date_when" : "1931-04-11",
+      "_ - date_text" : "11. 4.1931",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Bourdet, Edouard",
+      "_ - date_when" : "1929-10-24",
+      "_ - date_text" : "24. 10. 1929",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Brandes, Georg",
+      "_ - date_when" : "1913-02-27",
+      "_ - date_text" : "27. 2. 1913",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Brandes, Georg",
+      "_ - date_when" : "1914-10-20",
+      "_ - date_text" : "20. 10. 1914",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Brandes, Georg",
+      "_ - date_when" : "1915-12-09",
+      "_ - date_text" : "9. 12. 1915",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Brandes, Georg",
+      "_ - date_when" : "1915-12-22",
+      "_ - date_text" : "22. 12. 1915",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Brandes, Georg",
+      "_ - date_when" : "1918-08-02",
+      "_ - date_text" : "2. 8. 1918",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Brandes, Georg",
+      "_ - date_when" : "1920-08-16",
+      "_ - date_text" : "16. 8. 1920",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Brandes, Georg",
+      "_ - date_when" : "1921-12-28",
+      "_ - date_text" : "28. 12. 1921",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Brandes, Georg",
+      "_ - date_when" : "1922-01-30",
+      "_ - date_text" : "30. 1. 1922",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Brandes, Georg",
+      "_ - date_when" : "1925-07-07",
+      "_ - date_text" : "7. 7. 1925",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Brandes, Georg",
+      "_ - date_when" : "1925-07-29",
+      "_ - date_text" : "29. 7. 1925",
+      "_ - uncertain" : true,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Brüll, Oswald",
+      "_ - date_when" : "1915-01-13",
+      "_ - date_text" : "13. 1. 1915",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Cappellini, Lili",
+      "_ - date_when" : "1927-07-22",
+      "_ - date_text" : "22. 7. 1927",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Cappellini, Lili",
+      "_ - date_when" : "1927-10-29",
+      "_ - date_text" : "29. 10. 1927",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Cappellini, Lili",
+      "_ - date_when" : "1927-11-16",
+      "_ - date_text" : "16. 11. 1927",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Cappellini, Lili",
+      "_ - date_when" : "1928-01-14",
+      "_ - date_text" : "14. 1. 1928",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Cappellini, Lili",
+      "_ - date_when" : "1928-03-02",
+      "_ - date_text" : "2. 3. 1928",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Cappellini, Lili",
+      "_ - date_when" : "1928-03-07",
+      "_ - date_text" : "7. 3. 1928",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Charlé, Gustav",
+      "_ - date_when" : "1927-03-05",
+      "_ - date_text" : "5. 3. 1927",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Charmatz, Richarc",
+      "_ - date_when" : "1913-01-04",
+      "_ - date_text" : "4. 1. 1913",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Charmatz, Richarc",
+      "_ - date_when" : "1917-12-12",
+      "_ - date_text" : "12. 12. 1917",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Clauser, Suzanne",
+      "_ - date_when" : "1928-11-13",
+      "_ - date_text" : "13. 11. 1928",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Clauser, Suzanne",
+      "_ - date_when" : "1928-11-23",
+      "_ - date_text" : "23. 11. 1928",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Clauser, Suzanne",
+      "_ - date_when" : "1929-07-23",
+      "_ - date_text" : "23. 7. 1929",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Clauser, Suzanne",
+      "_ - date_when" : "1929-08-06",
+      "_ - date_text" : "6. 8. 1929",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Clauser, Suzanne",
+      "_ - date_when" : "1929-08-18",
+      "_ - date_text" : "18. 8. 1929",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Clauser, Suzanne",
+      "_ - date_when" : "1930-01-03",
+      "_ - date_text" : "3. 1. 1930",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Clauser, Suzanne",
+      "_ - date_when" : "1930-01-05",
+      "_ - date_text" : "5. 1. 1930",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Clauser, Suzanne",
+      "_ - date_when" : "1930-01-07",
+      "_ - date_text" : "7. 1. 1930",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Clauser, Suzanne",
+      "_ - date_when" : "1930-01-07",
+      "_ - date_text" : "7. 1. 1930",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Clauser, Suzanne",
+      "_ - date_when" : "1930-01-12",
+      "_ - date_text" : "12. 1. 1930",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Clauser, Suzanne",
+      "_ - date_when" : "1930-01-17",
+      "_ - date_text" : "17. 1. 1930",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Clauser, Suzanne",
+      "_ - date_when" : "1930-01-22",
+      "_ - date_text" : "22. 1. 1930",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Clauser, Suzanne",
+      "_ - date_when" : "1930-05-03",
+      "_ - date_text" : "3. 5. 1930",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Clauser, Suzanne",
+      "_ - date_when" : "1930-05-07",
+      "_ - date_text" : "7. 5. 1930",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Clauser, Suzanne",
+      "_ - date_when" : "1930-07-21",
+      "_ - date_text" : "21. 7. 1930",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Clauser, Suzanne",
+      "_ - date_when" : "1930-07-24",
+      "_ - date_text" : "24. 7. 1930",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Clauser, Suzanne",
+      "_ - date_when" : "1930-07-31",
+      "_ - date_text" : "31. 7. 1930",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Clauser, Suzanne",
+      "_ - date_when" : "1930-08-06",
+      "_ - date_text" : "6. 8.1930",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Clauser, Suzanne",
+      "_ - date_when" : "1930-08-15",
+      "_ - date_text" : "15. 8. 1930",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Clauser, Suzanne",
+      "_ - date_when" : "1930-08-16",
+      "_ - date_text" : "16. 8. 1930",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Clauser, Suzanne",
+      "_ - date_when" : "1930-08-28",
+      "_ - date_text" : "28. 8. 1930",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Clauser, Suzanne",
+      "_ - date_when" : "1930-09-01",
+      "_ - date_text" : "1. 9. 1930",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Clauser, Suzanne",
+      "_ - date_when" : "1930-11-12",
+      "_ - date_text" : "12. 11. 1930",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Clauser, Suzanne",
+      "_ - date_when" : "1930-11-13",
+      "_ - date_text" : "13. 11. 1930",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Clauser, Suzanne",
+      "_ - date_when" : "1930-11-17",
+      "_ - date_text" : "17. 11. 1930",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Clauser, Suzanne",
+      "_ - date_when" : "1931-01-26",
+      "_ - date_text" : "26. 1. 1931",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Clauser, Suzanne",
+      "_ - date_when" : "1931-02-02",
+      "_ - date_text" : "2. 2. 1931",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Clauser, Suzanne",
+      "_ - date_when" : "1931-02-04",
+      "_ - date_text" : "4. 2. 1931",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Clauser, Suzanne",
+      "_ - date_when" : "1931-02-06",
+      "_ - date_text" : "6. 2. 1931",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Clauser, Suzanne",
+      "_ - date_when" : "1931-02-08",
+      "_ - date_text" : "8. 2. 1931",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Clauser, Suzanne",
+      "_ - date_when" : "1931-02-09",
+      "_ - date_text" : "9. 2. 1931",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Clauser, Suzanne",
+      "_ - date_when" : "1931-02-12",
+      "_ - date_text" : "12. 2. 1931",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Clauser, Suzanne",
+      "_ - date_when" : "1931-07-14",
+      "_ - date_text" : "14. 7. 1931",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Clauser, Suzanne",
+      "_ - date_when" : "1931-07-18",
+      "_ - date_text" : "18. 7. 1931",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Clauser, Suzanne",
+      "_ - date_when" : "1931-07-22",
+      "_ - date_text" : "22. 7. 1931",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Clauser, Suzanne",
+      "_ - date_when" : "1931-07-26",
+      "_ - date_text" : "26. 7. 1931",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Clauser, Suzanne",
+      "_ - date_when" : "1931-08-17",
+      "_ - date_text" : "17. 8.1931",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Clauser, Suzanne",
+      "_ - date_when" : "1931-08-27",
+      "_ - date_text" : "27. 8.1931",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Clauser, Suzanne",
+      "_ - date_when" : "1931-09-03",
+      "_ - date_text" : "3. 9. 1931",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Clauser, Suzanne",
+      "_ - date_when" : "1931-09-09",
+      "_ - date_text" : "9. 9. 1931",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Clauser, Suzanne",
+      "_ - date_when" : "1931-09-09",
+      "_ - date_text" : "9. 9. 1931",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Clauser, Suzanne",
+      "_ - date_when" : "1931-09-12",
+      "_ - date_text" : "12. 9. 1931",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Clemens, Cyril",
+      "_ - date_when" : "1931-01-19",
+      "_ - date_text" : "19. 1. 1931",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Cohen, Miriam M.",
+      "_ - date_when" : "1929-11-21",
+      "_ - date_text" : "21. 11. 1929",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Cohen, Miriam M.",
+      "_ - date_when" : "1929-12-05",
+      "_ - date_text" : "5. 12. 1929",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Coudenhove-Kalergi,Richard Nikolau,Graf",
+      "_ - date_when" : "1929-11-07",
+      "_ - date_text" : "7. 11.1929",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Deimel, Eugen",
+      "_ - date_when" : "1914-09-23",
+      "_ - date_text" : "23. 9. 1914",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Dessoff, Grete",
+      "_ - date_when" : "1917-04-02",
+      "_ - date_text" : "2. 4. 1917",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Deutsches Landes¬,theater, Prag",
+      "_ - date_when" : "1915-12-20",
+      "_ - date_text" : "20. 12. 1915",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Devrient, Max",
+      "_ - date_when" : "1917-04-13",
+      "_ - date_text" : "13. 4. 1917",
+      "_ - uncertain" : true,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Devrient, Max",
+      "_ - date_when" : "1927-12-12",
+      "_ - date_text" : "12. 12. 1927",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Diamant, Paul",
+      "_ - date_when" : "1925-07-20",
+      "_ - date_text" : "20. 7. 1925",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Durieux, Tilla",
+      "_ - date_when" : "1921-02-21",
+      "_ - date_text" : "21. 2. 1921",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Eger, Paul",
+      "_ - date_when" : "1919-08-06",
+      "_ - date_text" : "6. 8. 1919",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Eger, Paul",
+      "_ - date_when" : "1919-08-20",
+      "_ - date_text" : "20. 8. 1919",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Eidler, Josef",
+      "_ - date_when" : "1927-06-07",
+      "_ - date_text" : "7. 6. 1927",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Eirich, Otto",
+      "_ - date_when" : "1924-06-12",
+      "_ - date_text" : "12. 6. 1924",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Ekstein, Ignaz",
+      "_ - date_when" : "1915-04-28",
+      "_ - date_text" : "28. 4. 1915",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Endell, Fritz",
+      "_ - date_when" : "1920-10-23",
+      "_ - date_text" : "23. 10. 1920",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Engel, Fritz",
+      "_ - date_when" : "1928-07-14",
+      "_ - date_text" : "14. 7. 1928",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Englisch, Paul",
+      "_ - date_when" : "1928-09-27",
+      "_ - date_text" : "27. 9. 1928",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Ernst, Morris L.",
+      "_ - date_when" : "1930-10-29",
+      "_ - date_text" : "29. 10. 1930",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Ernst, Morris L.",
+      "_ - date_when" : "1930-11-24",
+      "_ - date_text" : "24. 11. 1930",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Ernst, Morris L.",
+      "_ - date_when" : "1930-12-24",
+      "_ - date_text" : "24. 12. 1930",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Everth, Erich",
+      "_ - date_when" : "1919-01-27",
+      "_ - date_text" : "27. 1. 1919",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Federn, Paul",
+      "_ - date_when" : "1919-04-18",
+      "_ - date_text" : "18. 4. 1919",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Fischer, Samuel",
+      "_ - date_when" : "1913-05-05",
+      "_ - date_text" : "5. 5. 1913",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Fischer, Samuel",
+      "_ - date_when" : "1913-05-13",
+      "_ - date_text" : "13. 5. 1913",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Fischer, Samuel",
+      "_ - date_when" : "1914-09-30",
+      "_ - date_text" : "30. 9. 1914",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Fischer, Samuel",
+      "_ - date_when" : "1915-02-05",
+      "_ - date_text" : "5. 2. 1915",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Fischer, Samuel",
+      "_ - date_when" : "1915-03-10",
+      "_ - date_text" : "10. 3. 1915",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Fischer, Samuel",
+      "_ - date_when" : "1915-05-22",
+      "_ - date_text" : "22. 5. 1915",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Fischer, Samuel",
+      "_ - date_when" : "1919-01-15",
+      "_ - date_text" : "15. 1. 1919",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Fischer, Samuel",
+      "_ - date_when" : "1920-07-05",
+      "_ - date_text" : "5. 7. 1920",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Fischer, Samuel",
+      "_ - date_when" : "1923-08-28",
+      "_ - date_text" : "28. 8. 1923",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Fischer, Samuel",
+      "_ - date_when" : "1923-10-25",
+      "_ - date_text" : "25. 10. 1923",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Fischer, Samuel",
+      "_ - date_when" : "1923-11-08",
+      "_ - date_text" : "8. 11. 1923",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Fischer, Samuel",
+      "_ - date_when" : "1928-11-12",
+      "_ - date_text" : "12. 11. 1928",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Fischer, Samuel",
+      "_ - date_when" : "1929-12-24",
+      "_ - date_text" : "24. 12. 1929",
+      "_ - uncertain" : true,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Fischer, Samuel",
+      "_ - date_when" : "1930-02-26",
+      "_ - date_text" : "26. 2. 1930",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Fischer, Samuel",
+      "_ - date_when" : "1930-04-05",
+      "_ - date_text" : "5. 4. 1930",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "S. Fischer (Verlag)",
+      "_ - date_when" : "1926-07-05",
+      "_ - date_text" : "5. 7. 1926",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Fried, Alfred Her¬,mann",
+      "_ - date_when" : "1919-03-19",
+      "_ - date_text" : "19. 3. 1919",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Fromm, Leo",
+      "_ - date_when" : "1915-01-24",
+      "_ - date_text" : "24. 1. 1915",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Fulda, Ludwig",
+      "_ - date_when" : "1921-11-29",
+      "_ - date_text" : "29. 11. 1921",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Fulda, Ludwig",
+      "_ - date_when" : "1927-12-31",
+      "_ - date_text" : "31. 12. 1927",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Fulda, Ludwig",
+      "_ - date_when" : "1928-07-01",
+      "_ - date_text" : "1. 7. 1928",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Fulda, Ludwig",
+      "_ - date_when" : "1930-08-15",
+      "_ - date_text" : "15. 8. 1930",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Fulda, Ludwig",
+      "_ - date_when" : "1930-12-20",
+      "_ - date_text" : "20. 12. 1930",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Fulda, Ludwig",
+      "_ - date_when" : "1931-03-04",
+      "_ - date_text" : "4. 3. 1931",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Gelber, Adolf",
+      "_ - date_when" : "1915-12-22",
+      "_ - date_text" : "22. 12. 1915",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Gémier, Firmin",
+      "_ - date_when" : "1927-12-12",
+      "_ - date_text" : "12. 12. 1927",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Gémier, Firmin",
+      "_ - date_when" : "1928-01-09",
+      "_ - date_text" : "9. 1. 1928",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Gillet, Louis",
+      "_ - date_when" : "1929-08-12",
+      "_ - date_text" : "12. 8. 1929",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Gillet, Louis",
+      "_ - date_when" : "1929-10-24",
+      "_ - date_text" : "24. 10. 1929",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Goldmann, Paul",
+      "_ - date_when" : "1925-03-09",
+      "_ - date_text" : "9. 3. 1925",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Gorki, Maxim",
+      "_ - date_when" : "1921-04-18",
+      "_ - date_text" : "18. 4. 1921",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Greiner, Leo",
+      "_ - date_when" : "1922-03-13",
+      "_ - date_text" : "13. 3. 1922",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Greiner, Leo",
+      "_ - date_when" : "1922-04-07",
+      "_ - date_text" : "7. 4. 1922",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Grohmann, Kuno",
+      "_ - date_when" : "1931-01-19",
+      "_ - date_text" : "19. 1. 1931",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Grossmann, Stefan",
+      "_ - date_when" : "1921-02-17",
+      "_ - date_text" : "17. 2. 1921",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Haas, Willy",
+      "_ - date_when" : "1927-02-19",
+      "_ - date_text" : "19. 2. 1927",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Haas, Willy",
+      "_ - date_when" : "1930-09-24",
+      "_ - date_text" : "24. 9. 1930",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Hauptmann, Gerhart",
+      "_ - date_when" : "1922-03-17",
+      "_ - date_text" : "17. 3. 1922",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Hauptmann, Gerhart",
+      "_ - date_when" : "1929-11-27",
+      "_ - date_text" : "27. 11. 1929",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Hegemann, Werner",
+      "_ - date_when" : "1924-10-18",
+      "_ - date_text" : "18. 10. 1924",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Hegemann, Werner",
+      "_ - date_when" : "1925-06-06",
+      "_ - date_text" : "6. 6. 1925",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Hegemann, Werner",
+      "_ - date_when" : "1925-07-09",
+      "_ - date_text" : "9. 7. 1925",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Hegemann, Werner",
+      "_ - date_when" : "1925-12-28",
+      "_ - date_text" : "28.12. 1925",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Hegemann, Werner",
+      "_ - date_when" : "1930-07-15",
+      "_ - date_text" : "15. 7. 1930",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Heine, Carl",
+      "_ - date_when" : "1913-12-19",
+      "_ - date_text" : "19. 12. 1913",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Heller, Wilhelm",
+      "_ - date_when" : "1913-04-29",
+      "_ - date_text" : "29. 4. 1913",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Heller, Wilhelm",
+      "_ - date_when" : "1913-05-05",
+      "_ - date_text" : "5. 5. 1913",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Henning, Hans",
+      "_ - date_when" : "1914-04-02",
+      "_ - date_text" : "2. 4. 1914",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Herbst, Edgar",
+      "_ - date_when" : "1913-10-06",
+      "_ - date_text" : "6. 10. 1913",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Herterich, Franz",
+      "_ - date_when" : "1924-08-15",
+      "_ - date_text" : "15. 8. 1924",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Herterich, Franz",
+      "_ - date_when" : "1926-04-08",
+      "_ - date_text" : "8. 4. 1926",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Herterich, Franz",
+      "_ - date_when" : "1927-07-09",
+      "_ - date_text" : "9. 7. 1927",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Herterich, Franz",
+      "_ - date_when" : "1928-03-24",
+      "_ - date_text" : "24. 3. 1928",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Herterich, Franz",
+      "_ - date_when" : "1928-05-10",
+      "_ - date_text" : "10. 5. 1928",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Hirschfeld, Ludwig",
+      "_ - date_when" : "1919-02-22",
+      "_ - date_text" : "22. 2. 1919",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Hofmannsthal, Hugo,von",
+      "_ - date_when" : "1914-03-28",
+      "_ - date_text" : "28. 3. 1914",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Hofmannsthal, Hugo,von",
+      "_ - date_when" : "1919-10-01",
+      "_ - date_text" : "1. 10. 1919",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Hofmannsthal, Hugo,von",
+      "_ - date_when" : "1923-01-15",
+      "_ - date_text" : "15. 1. 1923",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Hofmannsthal, Hugo,von",
+      "_ - date_when" : "1928-07-21",
+      "_ - date_text" : "21. 7. 1928",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Homma, Hans",
+      "_ - date_when" : "1930-05-21",
+      "_ - date_text" : "21. 5. 1930",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Horch, Franz",
+      "_ - date_when" : "1929-11-09",
+      "_ - date_text" : "9. 11. 1929",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Horch, Franz",
+      "_ - date_when" : "1929-11-13",
+      "_ - date_text" : "13. 11. 1929",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Horch, Franz",
+      "_ - date_when" : "1931-01-19",
+      "_ - date_text" : "19. 1. 1931",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "House, Roy Temple",
+      "_ - date_when" : "1931-03-18",
+      "_ - date_text" : "18. 3. 1931",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Huebsch, Ben W.",
+      "_ - date_when" : "1930-02-12",
+      "_ - date_text" : "12. 2. 1930",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "acob, Hans",
+      "_ - date_when" : "1924-10-27",
+      "_ - date_text" : "27. 10. 1924",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Jacobi, Lucy von",
+      "_ - date_when" : "1921-02-27",
+      "_ - date_text" : "27. 2. 1921",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Jacobi, Lucy von",
+      "_ - date_when" : "1921-03-09",
+      "_ - date_text" : "9. 3. 1921",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Jacobson, Leopold",
+      "_ - date_when" : "1926-01-07",
+      "_ - date_text" : "7. 1. 1926",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Jacoby, Siegfried",
+      "_ - date_when" : "1923-06-01",
+      "_ - date_text" : "1. 6. 1923",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Jaloux, Edmond",
+      "_ - date_when" : "1926-10-24",
+      "_ - date_text" : "24. 10. 1926",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Jaray, Alexander",
+      "_ - date_when" : "1916-01-03",
+      "_ - date_text" : "3. 1. 1916",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Jarno, Josef",
+      "_ - date_when" : "1919-03-31",
+      "_ - date_text" : "31. 3. 1919",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "oles, Alexander",
+      "_ - date_when" : "1931-06-20",
+      "_ - date_text" : "20. 6. 1931",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Jolowitz, Jacques",
+      "_ - date_when" : "1917-02-26",
+      "_ - date_text" : "26. 2. 1917",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Jonas, Clara",
+      "_ - date_when" : "1913-11-24",
+      "_ - date_text" : "24. 11. 1913",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Jonath, Herr",
+      "_ - date_when" : "1919-04-26",
+      "_ - date_text" : "26. 4. 1919",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Kalckar, Marc",
+      "_ - date_when" : "1925-05-09",
+      "_ - date_text" : "9. 5. 1925",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Kappstein, Theodor",
+      "_ - date_when" : "1922-07-24",
+      "_ - date_text" : "24. 7. 1922",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Kerr, Alfred",
+      "_ - date_when" : "1918-07-05",
+      "_ - date_text" : "5. 7. 1918",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Kerr, Alfred",
+      "_ - date_when" : "1925-01-28",
+      "_ - date_text" : "28. 1. 1925",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Klaren, Georg C.",
+      "_ - date_when" : "1927-07-23",
+      "_ - date_text" : "23. 7. 1927",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Körner, Josef",
+      "_ - date_when" : "1926-03-20",
+      "_ - date_text" : "20. 3. 1926",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Körner, Josef",
+      "_ - date_when" : "1931-01-19",
+      "_ - date_text" : "19. 1. 1931",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Körner, Josef",
+      "_ - date_when" : "1931-04-08",
+      "_ - date_text" : "8. 4. 1931",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Komitee zum Wiederaufbau der deutschen Angelegenheiten",
+      "_ - date_when" : "1919-02-10",
+      "_ - date_text" : "10. 2. 1919",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Korger, Friedrich",
+      "_ - date_when" : "1928-05-05",
+      "_ - date_text" : "5. 5. 1928",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Korrodi, Eduard",
+      "_ - date_when" : "1915-04-02",
+      "_ - date_text" : "2. 4. 1915",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Kramer, Leopold",
+      "_ - date_when" : "1919-02-24",
+      "_ - date_text" : "24. 2. 1919",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Kramer, Leopold",
+      "_ - date_when" : "1919-03-31",
+      "_ - date_text" : "31. 3. 1919",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Kreutz, Rudolf Jeremias",
+      "_ - date_when" : "1930-09-20",
+      "_ - date_text" : "20. 9. 1930",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Länyi, Richard",
+      "_ - date_when" : "1922-11-30",
+      "_ - date_text" : "30. 11. 1922",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Länyi, Richard",
+      "_ - date_when" : "1922-12-09",
+      "_ - date_text" : "9. 12. 1922",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Levine, Isaac",
+      "_ - date_when" : "1925-04-14",
+      "_ - date_text" : "14. 4. 1925",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Linden, Gustaf",
+      "_ - date_when" : "1915-12-22",
+      "_ - date_text" : "22. 12. 1915",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Linden, Gustaf",
+      "_ - date_when" : "1921-02-10",
+      "_ - date_text" : "10. 2. 1921",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Linden, Gustaf",
+      "_ - date_when" : "1921-04-25",
+      "_ - date_text" : "25. 4. 1921",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Linden, Gustaf",
+      "_ - date_when" : "1921-12-19",
+      "_ - date_text" : "19. 12. 1921",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Lippowitz, Jakob",
+      "_ - date_when" : "1925-05-23",
+      "_ - date_text" : "23. 5. 1925",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Liptzin, Sol",
+      "_ - date_when" : "1930-11-10",
+      "_ - date_text" : "10. 11. 1930",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Liptzin, Sol",
+      "_ - date_when" : "1930-11-26",
+      "_ - date_text" : "26. 11. 1930",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Liptzin, Sol",
+      "_ - date_when" : "1931-01-19",
+      "_ - date_text" : "19. 1. 1931",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Liptzin, Sol",
+      "_ - date_when" : "1931-03-21",
+      "_ - date_text" : "21. 3. 1931",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Liptzin, Sol",
+      "_ - date_when" : "1931-05-13",
+      "_ - date_text" : "13. 5. 1931",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Löbl, Johann",
+      "_ - date_when" : "1915-11-03",
+      "_ - date_text" : "3. 11. 1915",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Lorma, Grete",
+      "_ - date_when" : "0191-11-23",
+      "_ - date_text" : "24. 11. 191",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Lothar, Rudolph",
+      "_ - date_when" : "1917-12-24",
+      "_ - date_text" : "24. 12. 1917",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Lothar, Rudolph",
+      "_ - date_when" : "1922-10-16",
+      "_ - date_text" : "16. 10. 1922",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Loving, Pierre",
+      "_ - date_when" : "1920-05-08",
+      "_ - date_text" : "8. 5. 1920",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Mahler, Alma",
+      "_ - date_when" : "1928-05-04",
+      "_ - date_text" : "4. 5. 1928",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Mahler, Alma",
+      "_ - date_when" : "1929-08-04",
+      "_ - date_text" : "4. 8.1929",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Mann, Heinrich",
+      "_ - date_when" : "1917-10-03",
+      "_ - date_text" : "3. 10. 1917",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Mann, Heinrich",
+      "_ - date_when" : "1919-01-03",
+      "_ - date_text" : "3. 1. 1919",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Mann, Heinrich",
+      "_ - date_when" : "1920-11-18",
+      "_ - date_text" : "18. 11. 1920",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Mann, Heinrich",
+      "_ - date_when" : "1922-02-09",
+      "_ - date_text" : "9. 2. 1922",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Mann, Heinrich",
+      "_ - date_when" : "1922-12-28",
+      "_ - date_text" : "28. 12. 1922",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Mann, Thomas",
+      "_ - date_when" : "1922-12-28",
+      "_ - date_text" : "28. 12. 1922",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Mann, Thomas",
+      "_ - date_when" : "1924-11-06",
+      "_ - date_text" : "6. 11. 1924",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Mann, Thomas",
+      "_ - date_when" : "1929-01-30",
+      "_ - date_text" : "30. 1. 1929",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Marberg, Lilli",
+      "_ - date_when" : "1918-03-04",
+      "_ - date_text" : "4. 3. 1918",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Maril, Konrad",
+      "_ - date_when" : "1925-12-12",
+      "_ - date_text" : "12. 12. 1925",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Maril, Konrad",
+      "_ - date_when" : "1926-03-01",
+      "_ - date_text" : "1. 3. 1926",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Maril, Konrad",
+      "_ - date_when" : "1927-10-27",
+      "_ - date_text" : "27. 10. 1927",
+      "_ - uncertain" : false,
+      "_ - suspicious" : "true"
+    },
+    {
+      "_ - recv" : "Maril, Konrad",
+      "_ - date_when" : "1927-11-07",
+      "_ - date_text" : "7. 11. 1927",
+      "_ - uncertain" : false,
+      "_ - suspicious" : "true"
+    },
+    {
+      "_ - recv" : "Maril, Konrad",
+      "_ - date_when" : "1928-08-13",
+      "_ - date_text" : "13. 8. 1928",
+      "_ - uncertain" : true,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Marilaun, Car",
+      "_ - date_when" : "1931-01-22",
+      "_ - date_text" : "22. 1. 1931",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Meyrink, Gustav",
+      "_ - date_when" : "0191-04-26",
+      "_ - date_text" : "27. 4. 191.",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Michaelis, Dora",
+      "_ - date_when" : "1920-11-11",
+      "_ - date_text" : "11. 11. 1920",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Michaelis, Dora",
+      "_ - date_when" : "1920-11-22",
+      "_ - date_text" : "22. 11. 1920",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Michaelis, Dora",
+      "_ - date_when" : "1921-01-03",
+      "_ - date_text" : "3. 1. 1921",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Michaelis, Dora",
+      "_ - date_when" : "1921-02-05",
+      "_ - date_text" : "5. 2. 1921",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Michaelis, Karl",
+      "_ - date_when" : "1931-01-07",
+      "_ - date_text" : "7. 1. 1931",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Millenkovich, Max,von",
+      "_ - date_when" : "1917-06-26",
+      "_ - date_text" : "26. 6. 1917",
+      "_ - uncertain" : true,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Moeller, Philip",
+      "_ - date_when" : "1931-01-30",
+      "_ - date_text" : "30. 1. 1931",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Moeller, Philip",
+      "_ - date_when" : "1931-03-07",
+      "_ - date_text" : "7. 3. 1931",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Moll, Leopold",
+      "_ - date_when" : "1927-11-07",
+      "_ - date_text" : "7. 11. 1927",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Montor, Max",
+      "_ - date_when" : "1926-10-02",
+      "_ - date_text" : "2. 10. 1926",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Muhr, Adelbert",
+      "_ - date_when" : "1915-04-03",
+      "_ - date_text" : "3. 4. 1915",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Muhr, Adelbert",
+      "_ - date_when" : "1919-04-07",
+      "_ - date_text" : "7. 4. 1919",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Muhr, Adelbert",
+      "_ - date_when" : "1919-04-11",
+      "_ - date_text" : "11. 4. 1919",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Musil, Robert",
+      "_ - date_when" : "1922-02-12",
+      "_ - date_text" : "12. 2. 1922",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Nabl, Franz",
+      "_ - date_when" : "1927-05-21",
+      "_ - date_text" : "21. 5. 1927",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Neue Jüdische Monatsschaus, Redaktion",
+      "_ - date_when" : "1931-09-16",
+      "_ - date_text" : "16. 9. 1931",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Nobl, Gabor",
+      "_ - date_when" : "1925-02-21",
+      "_ - date_text" : "21. 2. 1925",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Noren, Heinrich G.",
+      "_ - date_when" : "1923-01-25",
+      "_ - date_text" : "25. 1. 1923",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Paulsen, Max",
+      "_ - date_when" : "1923-01-05",
+      "_ - date_text" : "5. 1. 1923",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Perutz, Herta",
+      "_ - date_when" : "1922-06-16",
+      "_ - date_text" : "16. 6. 1922",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Poldini, Eduard",
+      "_ - date_when" : "1925-02-21",
+      "_ - date_text" : "21. 2. 1925",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Polizeikommissariat,des XVIII. Bezirks",
+      "_ - date_when" : "1926-06-12",
+      "_ - date_text" : "12. 6. 1926",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Pollaczek, Clara Ka,tharina",
+      "_ - date_when" : "1925-01-15",
+      "_ - date_text" : "15. 1. 1925",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Pollaczek, Clara Ka,tharina",
+      "_ - date_when" : "1925-01-18",
+      "_ - date_text" : "18. 1. 1925",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Pollaczek, Clara Ka,tharina",
+      "_ - date_when" : "1925-01-22",
+      "_ - date_text" : "22. 1. 1925",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Pollaczek, Clara Ka,tharina",
+      "_ - date_when" : "1925-03-15",
+      "_ - date_text" : "15. 3. 1925",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Pollaczek, Clara Ka,tharina",
+      "_ - date_when" : "1925-03-21",
+      "_ - date_text" : "21. 3. 1925",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Pollaczek, Clara Ka,tharina",
+      "_ - date_when" : "1925-10-18",
+      "_ - date_text" : "18. 10. 1925",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Pollaczek, Clara Ka,tharina",
+      "_ - date_when" : "1927-04-24",
+      "_ - date_text" : "24. 4. 1927",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Pollaczek, Clara Ka,tharina",
+      "_ - date_when" : "1928-07-28",
+      "_ - date_text" : "28. 7. 1928",
+      "_ - uncertain" : true,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Pollaczek, Clara Ka,tharina",
+      "_ - date_when" : "1928-08-18",
+      "_ - date_text" : "18. 8. 1928",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Pollaczek, Clara Ka,tharina",
+      "_ - date_when" : "1928-08-21",
+      "_ - date_text" : "21. 8. 1928",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Pollaczek, Clara Ka,tharina",
+      "_ - date_when" : "1928-08-31",
+      "_ - date_text" : "31. 8. 1928",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Pollaczek, Clara Ka,tharina",
+      "_ - date_when" : "1928-10-13",
+      "_ - date_text" : "13. 10. 1928",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Pollaczek, Clara Ka,tharina",
+      "_ - date_when" : "1929-01-03",
+      "_ - date_text" : "3. 1. 1929",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Pollaczek, Clara Ka,tharina",
+      "_ - date_when" : "1929-03-15",
+      "_ - date_text" : "15. 3. 1929",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Pollaczek, Clara Ka,tharina",
+      "_ - date_when" : "1930-07-21",
+      "_ - date_text" : "21. 7. 1930",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Pollaczek, Clara Ka,tharina",
+      "_ - date_when" : "1930-07-30",
+      "_ - date_text" : "30. 7. 1930",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Pollaczek, Clara Ka,tharina",
+      "_ - date_when" : "1930-11-14",
+      "_ - date_text" : "14. 11. 1930",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Pollak, Frieda",
+      "_ - date_when" : "1920-01-28",
+      "_ - date_text" : "28. 1. 1920",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Pollak, Robert Adam",
+      "_ - date_when" : "1928-04-10",
+      "_ - date_text" : "10. 4. 1928",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Poortman, Johannes,Jacobus",
+      "_ - date_when" : "1924-04-10",
+      "_ - date_text" : "10. 4. 1924",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Proudfoot, Andrea H.",
+      "_ - date_when" : "1920-06-05",
+      "_ - date_text" : "5. 6. 1920",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Proudfoot, Andrea H.",
+      "_ - date_when" : "1920-08-20",
+      "_ - date_text" : "20. 8. 1920",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Reich, Leon",
+      "_ - date_when" : "1914-04-11",
+      "_ - date_text" : "11. 4. 1914",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Reik, Theodor",
+      "_ - date_when" : "1913-12-31",
+      "_ - date_text" : "31. 12. 1913",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Reimers, Georg",
+      "_ - date_when" : "",
+      "_ - date_text" : "Juli 1925",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Reininghaus, Paul",
+      "_ - date_when" : "1923-12-10",
+      "_ - date_text" : "10. 12. 1923",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Reininghaus, Paul",
+      "_ - date_when" : "1930-12-13",
+      "_ - date_text" : "13. 12. 1930",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Renaissance-Bühne,,Wien",
+      "_ - date_when" : "1921-06-28",
+      "_ - date_text" : "28. 6. 1921",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Reumann, Jakob",
+      "_ - date_when" : "1921-01-14",
+      "_ - date_text" : "14. 1. 1921",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Richter, Werner",
+      "_ - date_when" : "1920-12-30",
+      "_ - date_text" : "30. 12. 1920",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Rolland, Romain",
+      "_ - date_when" : "1914-12-14",
+      "_ - date_text" : "14. 12. 1914",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Rolland, Romain",
+      "_ - date_when" : "1915-01-07",
+      "_ - date_text" : "7. 1. 1915",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Roseeu, Robert",
+      "_ - date_when" : "1913-06-27",
+      "_ - date_text" : "27. 6. 1913",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Roseeu, Robert",
+      "_ - date_when" : "1913-12-17",
+      "_ - date_text" : "17. 12. 1913",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Rosenbaum, Richard",
+      "_ - date_when" : "1915-05-05",
+      "_ - date_text" : "5. 5. 1915",
+      "_ - uncertain" : true,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Rosenfeld, Harry",
+      "_ - date_when" : "1922-04-18",
+      "_ - date_text" : "18. 4. 1922",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Rotter, Gebrüder",
+      "_ - date_when" : "1927-07-09",
+      "_ - date_text" : "9. 7. 1927",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Salfner, Heinz",
+      "_ - date_when" : "1930-03-20",
+      "_ - date_text" : "20. 3. 1930",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Salten, Felix",
+      "_ - date_when" : "1923-07-22",
+      "_ - date_text" : "22. 7. 1923",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Salten, Felix",
+      "_ - date_when" : "1925-05-06",
+      "_ - date_text" : "6. 5. 1925",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Salten, Felix",
+      "_ - date_when" : "1927-02-10",
+      "_ - date_text" : "10. 2. 1927",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Salten, Felix",
+      "_ - date_when" : "1928-04-11",
+      "_ - date_text" : "11. 4. 1928",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Salten, Felix",
+      "_ - date_when" : "1929-09-06",
+      "_ - date_text" : "6. 9. 1929",
+      "_ - uncertain" : true,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Salten, Felix",
+      "_ - date_when" : "1931-05-30",
+      "_ - date_text" : "30. 5. 1931",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Saltenburgbühnen,Berlin",
+      "_ - date_when" : "1925-04-10",
+      "_ - date_text" : "10. 4. 1925",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Samst, Max",
+      "_ - date_when" : "1931-04-01",
+      "_ - date_text" : "1. 4. 1931",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Sandrock, Adele",
+      "_ - date_when" : "1913-01-07",
+      "_ - date_text" : "7. 1. 1913",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schauermann, Carl",
+      "_ - date_when" : "1912-03-26",
+      "_ - date_text" : "26. 3. 1912",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schauermann, Carl",
+      "_ - date_when" : "1913-04-29",
+      "_ - date_text" : "29. 4. 1913",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schewior, Hilde",
+      "_ - date_when" : "1928-03-17",
+      "_ - date_text" : "17. 3. 1928",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schinnerer, Otto P.",
+      "_ - date_when" : "1929-10-24",
+      "_ - date_text" : "24. 10. 1929",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schinnerer, Otto P.",
+      "_ - date_when" : "1929-11-25",
+      "_ - date_text" : "25. 11. 1929",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schinnerer, Otto P.",
+      "_ - date_when" : "1929-12-27",
+      "_ - date_text" : "27. 12. 1929",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schinnerer, Otto P.",
+      "_ - date_when" : "1930-02-06",
+      "_ - date_text" : "6. 2. 1930",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schinnerer, Otto P.",
+      "_ - date_when" : "1930-07-02",
+      "_ - date_text" : "2. 7. 1930",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schinnerer, Otto P.",
+      "_ - date_when" : "1930-08-24",
+      "_ - date_text" : "24. 8. 1930",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schinnerer, Otto P.",
+      "_ - date_when" : "1930-10-18",
+      "_ - date_text" : "18. 10. 1930",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schinnerer, Otto P.",
+      "_ - date_when" : "1930-11-06",
+      "_ - date_text" : "6. 11. 1930",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schinnerer, Otto P.",
+      "_ - date_when" : "1930-11-24",
+      "_ - date_text" : "24. 11. 1930",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schinnerer, Otto P.",
+      "_ - date_when" : "1931-01-08",
+      "_ - date_text" : "8. 1. 1931",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Heinrich",
+      "_ - date_when" : "1914-05-16",
+      "_ - date_text" : "16. 5. 1914",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Heinrich",
+      "_ - date_when" : "1918-08-12",
+      "_ - date_text" : "12. 8. 1918",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Heinrich",
+      "_ - date_when" : "1920-08-16",
+      "_ - date_text" : "16. 8. 1920",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Heinrich",
+      "_ - date_when" : "1921-08-08",
+      "_ - date_text" : "8. 8. 1921",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Heinrich",
+      "_ - date_when" : "1922-04-29",
+      "_ - date_text" : "29. 4. 1922",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Heinrich",
+      "_ - date_when" : "1922-06-09",
+      "_ - date_text" : "9. 6. 1922",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Heinrich",
+      "_ - date_when" : "1922-08-09",
+      "_ - date_text" : "9. 8. 1922",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Heinrich",
+      "_ - date_when" : "1922-08-19",
+      "_ - date_text" : "19. 8. 1922",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Heinrich",
+      "_ - date_when" : "1922-09-05",
+      "_ - date_text" : "5. 9. 1922",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Heinrich",
+      "_ - date_when" : "1922-10-28",
+      "_ - date_text" : "28. 10. 1922",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Heinrich",
+      "_ - date_when" : "1922-10-31",
+      "_ - date_text" : "31. 10. 1922",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Heinrich",
+      "_ - date_when" : "1923-05-13",
+      "_ - date_text" : "13. 5. 1923",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Heinrich",
+      "_ - date_when" : "1923-05-16",
+      "_ - date_text" : "16. 5. 1923",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Heinrich",
+      "_ - date_when" : "1923-05-18",
+      "_ - date_text" : "18. 5. 1923",
+      "_ - uncertain" : true,
+      "_ - suspicious" : "true"
+    },
+    {
+      "_ - recv" : "Schnitzler, Heinrich",
+      "_ - date_when" : "1923-05-20",
+      "_ - date_text" : "20. 5. 1923",
+      "_ - uncertain" : false,
+      "_ - suspicious" : "true"
+    },
+    {
+      "_ - recv" : "Schnitzler, Heinrich",
+      "_ - date_when" : "1923-07-18",
+      "_ - date_text" : "18. 7. 1923",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Heinrich",
+      "_ - date_when" : "1924-07-19",
+      "_ - date_text" : "19. 7. 1924",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Heinrich",
+      "_ - date_when" : "1924-07-29",
+      "_ - date_text" : "29. 7. 1924",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Heinrich",
+      "_ - date_when" : "1924-12-04",
+      "_ - date_text" : "4. 12. 1924",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Heinrich",
+      "_ - date_when" : "1924-12-11",
+      "_ - date_text" : "11. 12. 1924",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Heinrich",
+      "_ - date_when" : "1926-02-22",
+      "_ - date_text" : "22. 2. 1926",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Heinrich",
+      "_ - date_when" : "1927-03-13",
+      "_ - date_text" : "13. 3. 1927",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Heinrich",
+      "_ - date_when" : "1927-06-06",
+      "_ - date_text" : "6. 6. 1927",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Heinrich",
+      "_ - date_when" : "1927-08-05",
+      "_ - date_text" : "5. 8. 1927",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Heinrich",
+      "_ - date_when" : "1927-09-24",
+      "_ - date_text" : "24. 9. 1927",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Heinrich",
+      "_ - date_when" : "1927-10-29",
+      "_ - date_text" : "29. 10. 1927",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Heinrich",
+      "_ - date_when" : "1927-11-21",
+      "_ - date_text" : "21. 11. 1927",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Heinrich",
+      "_ - date_when" : "1928-02-02",
+      "_ - date_text" : "2. 2. 1928",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Heinrich",
+      "_ - date_when" : "1928-03-21",
+      "_ - date_text" : "21. 3. 1928",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Heinrich",
+      "_ - date_when" : "1928-04-08",
+      "_ - date_text" : "8. 4. 1928",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Heinrich",
+      "_ - date_when" : "1928-05-09",
+      "_ - date_text" : "9. 5. 1928",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Heinrich",
+      "_ - date_when" : "1928-05-15",
+      "_ - date_text" : "15. 5. 1928",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Heinrich",
+      "_ - date_when" : "1928-09-26",
+      "_ - date_text" : "26. 9. 1928",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Heinrich",
+      "_ - date_when" : "1928-11-06",
+      "_ - date_text" : "6. 11. 1928",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Heinrich",
+      "_ - date_when" : "1929-01-13",
+      "_ - date_text" : "13. 1. 1929",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Heinrich",
+      "_ - date_when" : "1929-01-18",
+      "_ - date_text" : "18. 1. 1929",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Heinrich",
+      "_ - date_when" : "1929-01-27",
+      "_ - date_text" : "27. 1. 1929",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Heinrich",
+      "_ - date_when" : "1929-02-08",
+      "_ - date_text" : "8. 2. 1929",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Heinrich",
+      "_ - date_when" : "1929-02-15",
+      "_ - date_text" : "15. 2. 1929",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Heinrich",
+      "_ - date_when" : "1929-03-09",
+      "_ - date_text" : "9. 3. 1929",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Heinrich",
+      "_ - date_when" : "1929-04-01",
+      "_ - date_text" : "1. 4. 1929",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Heinrich",
+      "_ - date_when" : "1929-04-13",
+      "_ - date_text" : "13. 4. 1929",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Heinrich",
+      "_ - date_when" : "1929-06-13",
+      "_ - date_text" : "13. 6. 1929",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Heinrich",
+      "_ - date_when" : "1929-07-18",
+      "_ - date_text" : "18. 7. 1929",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Heinrich",
+      "_ - date_when" : "1929-10-07",
+      "_ - date_text" : "7. 10. 1929",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Heinrich",
+      "_ - date_when" : "1929-11-26",
+      "_ - date_text" : "26. 11. 1929",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Heinrich",
+      "_ - date_when" : "1929-12-05",
+      "_ - date_text" : "5. 12. 1929",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Heinrich",
+      "_ - date_when" : "1930-01-28",
+      "_ - date_text" : "28. 1. 1930",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Heinrich",
+      "_ - date_when" : "1930-02-06",
+      "_ - date_text" : "6. 2. 1930",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Heinrich",
+      "_ - date_when" : "1930-02-28",
+      "_ - date_text" : "28. 2. 1930",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Heinrich",
+      "_ - date_when" : "1930-04-01",
+      "_ - date_text" : "1. 4. 1930",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Heinrich",
+      "_ - date_when" : "1930-12-20",
+      "_ - date_text" : "20. 12. 1930",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Heinrich",
+      "_ - date_when" : "1931-01-11",
+      "_ - date_text" : "11. 1. 1931",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Heinrich",
+      "_ - date_when" : "1931-01-21",
+      "_ - date_text" : "21. 1. 1931",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Heinrich",
+      "_ - date_when" : "1931-01-28",
+      "_ - date_text" : "28. 1. 1931",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Heinrich",
+      "_ - date_when" : "1931-03-04",
+      "_ - date_text" : "4. 3. 1931",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Heinrich",
+      "_ - date_when" : "1931-04-16",
+      "_ - date_text" : "16. 4. 1931",
+      "_ - uncertain" : true,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Heinrich",
+      "_ - date_when" : "1931-05-08",
+      "_ - date_text" : "8. 5. 1931",
+      "_ - uncertain" : true,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Heinrich",
+      "_ - date_when" : "1931-09-05",
+      "_ - date_text" : "5. 9. 1931",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Heinrich",
+      "_ - date_when" : "1931-09-22",
+      "_ - date_text" : "22. 9. 1931",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Heinrich",
+      "_ - date_when" : "1931-10-10",
+      "_ - date_text" : "10. 10. 1931",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Olga",
+      "_ - date_when" : "1913-02-08",
+      "_ - date_text" : "8. 2. 1913",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Olga",
+      "_ - date_when" : "1915-07-17",
+      "_ - date_text" : "17. 7. 1915",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Olga",
+      "_ - date_when" : "1915-07-22",
+      "_ - date_text" : "22. 7. 1915",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Olga",
+      "_ - date_when" : "1915-07-25",
+      "_ - date_text" : "25. 7. 1915",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Olga",
+      "_ - date_when" : "1917-03-18",
+      "_ - date_text" : "18. 3. 1917",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Olga",
+      "_ - date_when" : "1917-08-28",
+      "_ - date_text" : "28. 8. 1917",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Olga",
+      "_ - date_when" : "1917-08-31",
+      "_ - date_text" : "31. 8. 1917",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Olga",
+      "_ - date_when" : "1918-08-16",
+      "_ - date_text" : "16. 8. 1918",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Olga",
+      "_ - date_when" : "1919-09-04",
+      "_ - date_text" : "4. 9. 1919",
+      "_ - uncertain" : false,
+      "_ - suspicious" : "true"
+    },
+    {
+      "_ - recv" : "Schnitzler, Olga",
+      "_ - date_when" : "1919-09-11",
+      "_ - date_text" : "11. 9. 1919",
+      "_ - uncertain" : false,
+      "_ - suspicious" : "true"
+    },
+    {
+      "_ - recv" : "Schnitzler, Olga",
+      "_ - date_when" : "1920-04-08",
+      "_ - date_text" : "8. 4. 1920",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Olga",
+      "_ - date_when" : "1921-03-13",
+      "_ - date_text" : "13. 3. 1921",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Olga",
+      "_ - date_when" : "1921-04-07",
+      "_ - date_text" : "7. 4. 1921",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Olga",
+      "_ - date_when" : "1921-07-08",
+      "_ - date_text" : "8. 7. 1921",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Olga",
+      "_ - date_when" : "1921-07-16",
+      "_ - date_text" : "16. 7. 1921",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Olga",
+      "_ - date_when" : "1921-11-29",
+      "_ - date_text" : "29. 11. 1921",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Olga",
+      "_ - date_when" : "1922-11-04",
+      "_ - date_text" : "4. 11. 1922",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Olga",
+      "_ - date_when" : "1923-01-22",
+      "_ - date_text" : "22. 1.1923",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Olga",
+      "_ - date_when" : "1923-02-01",
+      "_ - date_text" : "1. 2. 1923",
+      "_ - uncertain" : false,
+      "_ - suspicious" : "true"
+    },
+    {
+      "_ - recv" : "Schnitzler, Olga",
+      "_ - date_when" : "1923-02-19",
+      "_ - date_text" : "19. 2. 1923",
+      "_ - uncertain" : false,
+      "_ - suspicious" : "true"
+    },
+    {
+      "_ - recv" : "Schnitzler, Olga",
+      "_ - date_when" : "1923-04-21",
+      "_ - date_text" : "21. 4. 1923",
+      "_ - uncertain" : false,
+      "_ - suspicious" : "true"
+    },
+    {
+      "_ - recv" : "Schnitzler, Olga",
+      "_ - date_when" : "1923-05-19",
+      "_ - date_text" : "19. 5. 1923",
+      "_ - uncertain" : false,
+      "_ - suspicious" : "true"
+    },
+    {
+      "_ - recv" : "Schnitzler, Olga",
+      "_ - date_when" : "1923-07-21",
+      "_ - date_text" : "21. 7.1923",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Olga",
+      "_ - date_when" : "1923-10-03",
+      "_ - date_text" : "3. 10. 1923",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Olga",
+      "_ - date_when" : "1923-11-27",
+      "_ - date_text" : "27. 11. 1923",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Olga",
+      "_ - date_when" : "1923-12-09",
+      "_ - date_text" : "9. 12. 1923",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Olga",
+      "_ - date_when" : "1924-04-23",
+      "_ - date_text" : "23. 4. 1924",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Olga",
+      "_ - date_when" : "1924-07-05",
+      "_ - date_text" : "5. 7. 1924",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Olga",
+      "_ - date_when" : "1924-07-16",
+      "_ - date_text" : "16. 7. 1924",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Olga",
+      "_ - date_when" : "1924-12-26",
+      "_ - date_text" : "26. 12. 1924",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Olga",
+      "_ - date_when" : "1925-04-15",
+      "_ - date_text" : "15. 4. 1925",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Olga",
+      "_ - date_when" : "1926-01-06",
+      "_ - date_text" : "6. 1. 1926",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Olga",
+      "_ - date_when" : "1926-01-30",
+      "_ - date_text" : "30. 1. 1926",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Olga",
+      "_ - date_when" : "1926-07-20",
+      "_ - date_text" : "20. 7. 1926",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Olga",
+      "_ - date_when" : "1926-09-09",
+      "_ - date_text" : "9. 9. 1926",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Olga",
+      "_ - date_when" : "1926-09-20",
+      "_ - date_text" : "20. 9. 1926",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Olga",
+      "_ - date_when" : "1926-09-26",
+      "_ - date_text" : "26. 9. 1926",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Olga",
+      "_ - date_when" : "1926-10-16",
+      "_ - date_text" : "16. 10. 1926",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Olga",
+      "_ - date_when" : "1926-10-23",
+      "_ - date_text" : "23. 10. 1926",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Olga",
+      "_ - date_when" : "1926-12-29",
+      "_ - date_text" : "29. 12. 1926",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Olga",
+      "_ - date_when" : "1927-01-06",
+      "_ - date_text" : "6. 1. 1927",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Olga",
+      "_ - date_when" : "1927-07-17",
+      "_ - date_text" : "17. 7. 1927",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Olga",
+      "_ - date_when" : "1927-11-03",
+      "_ - date_text" : "3. 11. 1927",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Olga",
+      "_ - date_when" : "1927-11-23",
+      "_ - date_text" : "23. 11. 1927",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Olga",
+      "_ - date_when" : "1928-01-11",
+      "_ - date_text" : "11. 1. 1928",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Olga",
+      "_ - date_when" : "1928-01-15",
+      "_ - date_text" : "15. 1. 1928",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Olga",
+      "_ - date_when" : "1928-04-21",
+      "_ - date_text" : "21. 4. 1928",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Olga",
+      "_ - date_when" : "1928-07-13",
+      "_ - date_text" : "13. 7. 1928",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Olga",
+      "_ - date_when" : "1928-07-22",
+      "_ - date_text" : "22. 7. 1928",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Olga",
+      "_ - date_when" : "1928-08-16",
+      "_ - date_text" : "16. 8. 1928",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Olga",
+      "_ - date_when" : "1929-07-20",
+      "_ - date_text" : "20. 7. 1929",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Olga",
+      "_ - date_when" : "1929-08-02",
+      "_ - date_text" : "2. 8. 1929",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Olga",
+      "_ - date_when" : "1930-04-05",
+      "_ - date_text" : "5. 4. 1930",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Olga",
+      "_ - date_when" : "1931-01-14",
+      "_ - date_text" : "14. 1. 1931",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schnitzler, Olga",
+      "_ - date_when" : "1931-02-23",
+      "_ - date_text" : "23. 2. 1931",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schönherr, Karl",
+      "_ - date_when" : "1927-02-24",
+      "_ - date_text" : "24. 2. 1927",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schröder, Karl-,Ludwig",
+      "_ - date_when" : "1913-02-05",
+      "_ - date_text" : "5. 2. 1913",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schröder, Karl-,Ludwig",
+      "_ - date_when" : "1913-03-20",
+      "_ - date_text" : "20. 3. 1913",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schumann, Wolf,gang",
+      "_ - date_when" : "1915-01-07",
+      "_ - date_text" : "7. 1. 1915",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Schwarzkopf, Gustav",
+      "_ - date_when" : "1920-02-24",
+      "_ - date_text" : "24. 2. 1920",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Seltzer, Thomas",
+      "_ - date_when" : "1924-08-04",
+      "_ - date_text" : "4. 8.1924",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Shaw, G. Bernard",
+      "_ - date_when" : "",
+      "_ - date_text" : "Juni 1926",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Sladek, Maximiliar",
+      "_ - date_when" : "1922-07-07",
+      "_ - date_text" : "7. 7. 1922",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Sladek, Maximiliar",
+      "_ - date_when" : "1924-12-08",
+      "_ - date_text" : "8. 12. 1924",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Sonnenfeld, Kurt",
+      "_ - date_when" : "1916-12-18",
+      "_ - date_text" : "18. 12. 1916",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Sonnenfeld, Kurt",
+      "_ - date_when" : "1917-02-19",
+      "_ - date_text" : "19. 2. 1917",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Sonnenfeld, Kurt",
+      "_ - date_when" : "1920-01-15",
+      "_ - date_text" : "15. 1. 1920",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Springer, Paul",
+      "_ - date_when" : "1920-05-01",
+      "_ - date_text" : "1. 5. 1920",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Stampe-Bendix, Karen",
+      "_ - date_when" : "1931-05-27",
+      "_ - date_text" : "27. 5. 1931",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Steinrück, Albert",
+      "_ - date_when" : "1914-11-05",
+      "_ - date_text" : "5. 11. 1914",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Steinrück, Elisabeth",
+      "_ - date_when" : "1914-12-22",
+      "_ - date_text" : "22. 12. 1914",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Steinrück, Elisabeth",
+      "_ - date_when" : "1915-12-13",
+      "_ - date_text" : "13. 12. 1915",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Steinrück, Elisabeth",
+      "_ - date_when" : "1916-05-22",
+      "_ - date_text" : "22. 5. 1916",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Steinrück, Elisabeth",
+      "_ - date_when" : "1916-12-25",
+      "_ - date_text" : "25. 12. 1916",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Stern, Julius",
+      "_ - date_when" : "1925-03-12",
+      "_ - date_text" : "12. 3. 1925",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Stranik, Erwin",
+      "_ - date_when" : "1926-01-14",
+      "_ - date_text" : "14. 1. 1926",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Strauss, Richard",
+      "_ - date_when" : "1919-06-04",
+      "_ - date_text" : "4. 6. 1919",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Strauss, Richard",
+      "_ - date_when" : "1924-05-05",
+      "_ - date_text" : "5. 5. 1924",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Tagger, Theodor",
+      "_ - date_when" : "1916-12-11",
+      "_ - date_text" : "11. 12. 1916",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Tal, Ernst Peter",
+      "_ - date_when" : "1913-05-19",
+      "_ - date_text" : "19. 5. 1913",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Tempos, Redaktion",
+      "_ - date_when" : "1929-02-18",
+      "_ - date_text" : "18. 2. 1929",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Thaliatheater, Breslau",
+      "_ - date_when" : "1924-07-21",
+      "_ - date_text" : "21. 7. 1924",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Thimig, Hugo",
+      "_ - date_when" : "1913-11-11",
+      "_ - date_text" : "11. 11. 1913",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Thimig, Hugo",
+      "_ - date_when" : "1915-09-05",
+      "_ - date_text" : "5. 9. 1915",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Tiemann, Franz",
+      "_ - date_when" : "1927-03-12",
+      "_ - date_text" : "12. 3. 1927",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Titus, Edward W",
+      "_ - date_when" : "1927-04-07",
+      "_ - date_text" : "7. 4. 1927",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Titus, Edward W",
+      "_ - date_when" : "1927-04-20",
+      "_ - date_text" : "20. 4. 1927",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Titus, Edward W",
+      "_ - date_when" : "1927-05-12",
+      "_ - date_text" : "12. 5. 1927",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Trebitsch, Siegfried",
+      "_ - date_when" : "1913-04-12",
+      "_ - date_text" : "12. 4. 1913",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Tucholsky, Kurt",
+      "_ - date_when" : "1913-10-14",
+      "_ - date_text" : "14. 10. 1913",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Ulmann, Agnes",
+      "_ - date_when" : "1925-07-18",
+      "_ - date_text" : "18. 7. 1925",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Ulmann, Agnes",
+      "_ - date_when" : "1929-05-25",
+      "_ - date_text" : "25. 5. 1929",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Unruh, Fritz von",
+      "_ - date_when" : "1917-10-03",
+      "_ - date_text" : "3. 10. 1917",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Unruh, Fritz von",
+      "_ - date_when" : "1930-09-18",
+      "_ - date_text" : "18. 9. 1930",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Viereck, George Sylvester",
+      "_ - date_when" : "1927-06-18",
+      "_ - date_text" : "18. 6. 1927",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Viereck, George Sylvester",
+      "_ - date_when" : "1928-03-29",
+      "_ - date_text" : "29. 3. 1928",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Wallace, David",
+      "_ - date_when" : "1925-04-23",
+      "_ - date_text" : "23. 4. 1925",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Wassermann, Jakob",
+      "_ - date_when" : "1924-11-03",
+      "_ - date_text" : "3. 11. 1924",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Wassermann, Julie",
+      "_ - date_when" : "1928-05-20",
+      "_ - date_text" : "20. 5. 1928",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Weilen, Alexander,Weil Ritter von",
+      "_ - date_when" : "1917-11-19",
+      "_ - date_text" : "19. 11. 1917",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Weiß, Julian",
+      "_ - date_when" : "1931-06-17",
+      "_ - date_text" : "17. 6. 1931",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Weisse, Adolf",
+      "_ - date_when" : "1914-11-11",
+      "_ - date_text" : "11. 11. 1914",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Weizsaecker, Otto",
+      "_ - date_when" : "1914-06-12",
+      "_ - date_text" : "12. 6. 1914",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Weizsaecker, Otto",
+      "_ - date_when" : "1919-01-22",
+      "_ - date_text" : "22. 1.1919",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Werfel, Franz",
+      "_ - date_when" : "1926-06-05",
+      "_ - date_text" : "5. 6. 1926",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Werfel, Franz",
+      "_ - date_when" : "1926-06-22",
+      "_ - date_text" : "22. 6. 1926",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Werner, Edith",
+      "_ - date_when" : "1924-04-10",
+      "_ - date_text" : "10. 4. 1924",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Wiegler, Paul",
+      "_ - date_when" : "1927-10-19",
+      "_ - date_text" : "19. 10. 1927",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Wiegler, Paul",
+      "_ - date_when" : "1929-03-02",
+      "_ - date_text" : "2. 3. 1929",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Wiegler, Paul",
+      "_ - date_when" : "1930-08-23",
+      "_ - date_text" : "23. 8. 1930",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Wiener Bezirkskrankenkasse",
+      "_ - date_when" : "1928-12-13",
+      "_ - date_text" : "13. 12. 1928",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Wildgans, Anton",
+      "_ - date_when" : "1930-04-20",
+      "_ - date_text" : "20. 4. 1930",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Wildgans, Anton",
+      "_ - date_when" : "1931-02-16",
+      "_ - date_text" : "16. 2. 1931",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Winternitz, Jakob,von",
+      "_ - date_when" : "1914-12-07",
+      "_ - date_text" : "7. 12. 1914",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Wohlgemuth, Else",
+      "_ - date_when" : "1931-01-14",
+      "_ - date_text" : "14. 1. 1931",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Woiwode, Lina",
+      "_ - date_when" : "1918-02-22",
+      "_ - date_text" : "22. 2. 1918",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "York-Steiner, Heinrich",
+      "_ - date_when" : "1919-08-22",
+      "_ - date_text" : "22. 8. 1919",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Zeiss, Karl",
+      "_ - date_when" : "1917-07-24",
+      "_ - date_text" : "24. 7. 1917",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Zimmels, Salomon",
+      "_ - date_when" : "1914-10-17",
+      "_ - date_text" : "17. 10. 1914",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Zimmels, Salomon",
+      "_ - date_when" : "1918-01-16",
+      "_ - date_text" : "16. 1. 1918",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Zuckerkandl, Berta",
+      "_ - date_when" : "1929-03-04",
+      "_ - date_text" : "4. 3. 1929",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Zuckerkandl, Victor",
+      "_ - date_when" : "1929-03-02",
+      "_ - date_text" : "2. 3. 1929",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Zweig, Stefan",
+      "_ - date_when" : "1914-12-02",
+      "_ - date_text" : "2. 12. 1914",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Zweig, Stefan",
+      "_ - date_when" : "1924-11-06",
+      "_ - date_text" : "6. 11.1924",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    },
+    {
+      "_ - recv" : "Zweig, Stefan",
+      "_ - date_when" : "1928-01-16",
+      "_ - date_text" : "16. 1. 1928",
+      "_ - uncertain" : false,
+      "_ - suspicious" : null
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+[
+    {
+        "op": "core/column-addition",
+        "engineConfig": {
+          "facets": [],
+          "mode": "row-based"
+        },
+        "baseColumnName": "_ - uncertain",
+        "expression": "grel:if (value==true ,\"low\",\"high\")",
+        "onError": "set-to-blank",
+        "newColumnName": "cert",
+        "columnInsertIndex": 4,
+        "description": "Create column cert at index 4 based on column _ - uncertain using expression grel:if (value==true ,\"low\",\"high\")"
+      }
+    
+]

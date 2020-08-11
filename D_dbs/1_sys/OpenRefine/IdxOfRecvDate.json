@@ -1,0 +1,119 @@
+[
+    {
+        "op": "core/column-addition",
+        "engineConfig": {
+          "facets": [],
+          "mode": "row-based"
+        },
+        "baseColumnName": "Column 1",
+        "expression": "grel:contains(value,'[') or contains(value,']')",
+        "onError": "set-to-blank",
+        "newColumnName": "uncertain",
+        "columnInsertIndex": 1,
+        "description": "Create column unc at index 1 based on column Column 1 using expression grel:contains(value,'[') or contains(value,']')"
+      },
+      {
+      "op": "core/text-transform",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "Column 1",
+      "expression": "grel:replace(value,\"[\",\"\")",
+      "onError": "keep-original",
+      "repeat": false,
+      "repeatCount": 10,
+      "description": "Text transform on cells in column Column 1 using expression grel:replace(value,\"[\",\"\")"
+    },
+    {
+      "op": "core/text-transform",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "Column 1",
+      "expression": "grel:replace(value,']','')",
+      "onError": "keep-original",
+      "repeat": false,
+      "repeatCount": 10,
+      "description": "Text transform on cells in column Column 1 using expression grel:replace(value,']','')"
+    },
+    {
+      "op": "core/text-transform",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "Column 1",
+      "expression": "grel:trim(value)",
+      "onError": "keep-original",
+      "repeat": false,
+      "repeatCount": 10,
+      "description": "Text transform on cells in column Column 1 using expression grel:trim(value)"
+    },
+    {
+      "op": "core/column-addition",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "baseColumnName": "Column 1",
+      "expression": "grel:toDate(value,'dd.MM.yyyy')",
+      "onError": "set-to-blank",
+      "newColumnName": "zSend",
+      "columnInsertIndex": 1,
+      "description": "Create column zSend at index 1 based on column Column 1 using expression grel:toDate(value,'dd.MM.yyyy')"
+    },
+    {
+      "op": "core/multivalued-cell-join",
+      "columnName": "Column 1",
+      "keyColumnName": "Column 1",
+      "separator": ", ",
+      "description": "Join multi-valued cells in column Column 1"
+    },
+    {
+      "op": "core/column-addition",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "baseColumnName": "zSend",
+      "expression": "grel:toString(value).slice(0,10)",
+      "onError": "set-to-blank",
+      "newColumnName": "date_when",
+      "columnInsertIndex": 2,
+      "description": "Create column date_when at index 2 based on column zSend using expression grel:toString(value).slice(0,10)"
+    },
+    {
+      "op": "core/column-addition",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "baseColumnName": "date_when",
+      "expression": "grel:length(value)==0",
+      "onError": "set-to-blank",
+      "newColumnName": "isNamePart",
+      "columnInsertIndex": 3,
+      "description": "Create column isNamePart at index 3 based on column date_when using expression grel:length(value)==0"
+    },
+    {
+      "op": "core/column-rename",
+      "oldColumnName": "Column 1",
+      "newColumnName": "recv",
+      "description": "Rename column Column 1 to recv"
+    },
+    {
+      "op": "core/column-addition",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "baseColumnName": "date_when",
+      "expression": "grel:value.length()",
+      "onError": "set-to-blank",
+      "newColumnName": "dateLen",
+      "columnInsertIndex": 3,
+      "description": "Create column dateLen at index 3 based on column date_when using expression grel:value.length()"
+    }
+  ]
