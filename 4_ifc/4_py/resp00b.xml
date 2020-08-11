@@ -1,0 +1,660 @@
+<tei xmlns="http://www.tei-c.org/ns/1.0">
+ <teiheader>
+  <filedesc>
+   <titlestmt>
+    <title>
+     correspSearch API - Correspondence Descriptions from divers sources
+    </title>
+    <respstmt>
+     <resp>
+      Data provider of the correspondence descriptions
+     </resp>
+     <name>
+      Hans Harald Müller, Bernhard Fetz, Marcel Illetschko, Mirko Nottscheid und Desiree Hebenstreit
+     </name>
+     <name>
+      Center for
+                        Information Modelling, University of Graz
+     </name>
+     <name>
+      Berlin-Brandenburg Academy of Sciences and Humanities
+     </name>
+     <name>
+      Nasjonalbiblioteket (National Library of Norway)
+
+bokselskap.no
+     </name>
+     <name>
+      Martin Anton Müller
+     </name>
+    </respstmt>
+   </titlestmt>
+   <publicationstmt>
+    <publisher>
+     <ref target="http://www.bbaw.de">
+      Berlin-Brandenburgische Akademie der Wissenschaften
+     </ref>
+    </publisher>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/">
+      CC-BY 4.0
+     </licence>
+    </availability>
+    <idno type="url">
+     https://correspsearch.net//api/v1.1/tei-xml.xql?correspondent=all&amp;startdate=1889-08-01&amp;enddate=1889-08-08
+    </idno>
+    <date when="2020-07-04T08:59:37.179+02:00">
+    </date>
+   </publicationstmt>
+   <sourcedesc>
+    <bibl type="online" xml:id="ONBSASE">
+     Briefwechsel Sauer-Seuffert, Digitale Edition (
+     <ref target="http://sauer-seuffert.onb.ac.at">
+      sauer-seuffert.onb.ac.at
+     </ref>
+     ). Hrsg. von Hans Harald Müller, Bernhard Fetz, Marcel Illetschko, Mirko Nottscheid und Desiree Hebenstreit. Wien und Hamburg 2016.
+    </bibl>
+    <bibl type="online" xml:id="ROLLETT">
+     Walter Höflechner und Ingrid M. Wagner (Hrsg.): Alexander Rollett. Seine Welt in Briefen,
+                        1844-1903. Graz 2013
+    </bibl>
+    <bibl type="print" xml:id="e1e7187d-050f-44aa-9cdc-f60aaaa998d0">
+     Humboldt, Alexander von und Johann Franz Encke: Briefwechsel. Herausgegeben von Oliver Schwarz und Ingo Schwarz unter Mitarbeit von Eberhard Knobloch, Bd. 37, Beiträge zur Alexander-von-Humboldt-Forschung, Berlin: Akademie Verlag 2013
+    </bibl>
+    <bibl type="online" xml:id="a92a2ecf-dd30-40d4-a9b9-51af2873303b">
+     Camilla Collett: Brev til Henrik og Susanna Ibsen. Utgitt ved Mette Refslund Witting, NB kilder 2:1, Nasjonalbiblioteket/bokselskap.no, Oslo 2014
+     <ref target="https://www.bokselskap.no/boker/collettbrevibsen/tittelside">
+      https://www.bokselskap.no/boker/collettbrevibsen/tittelside
+     </ref>
+    </bibl>
+    <bibl type="online" xml:id="asbw_ea0a6dba-5789-4e6b-8631-7f9f329678e4">
+     Arthur Schnitzler – Briefwechsel mit Autorinnen und Autoren. Digitale Edition herausgegeben von Martin Anton Müller
+                        und Gerd-Hermann Susen, 2018–2021
+     <ref target="https://schnitzler-briefe.acdh.oeaw.ac.at/">
+      https://schnitzler-briefe.acdh.oeaw.ac.at/
+     </ref>
+    </bibl>
+   </sourcedesc>
+  </filedesc>
+  <profiledesc>
+   <correspdesc key="110" source="#e1e7187d-050f-44aa-9cdc-f60aaaa998d0">
+    <correspaction type="sent">
+     <persname ref="http://d-nb.info/gnd/118554700">
+      Alexander von Humboldt
+     </persname>
+     <date notafter="1934-12-31" notbefore="1834-01-01">
+      wohl 1834
+     </date>
+     <placename evidence="conjecture" ref="http://www.geonames.org/2950159">
+      Berlin
+     </placename>
+    </correspaction>
+    <correspaction type="received">
+     <persname ref="http://d-nb.info/gnd/116471727">
+      Johann Franz Encke
+     </persname>
+    </correspaction>
+   </correspdesc>
+   <correspdesc ref="http://gams.uni-graz.at/o:rollett.1863#L.93" source="#ROLLETT">
+    <correspaction type="sent">
+     <persname ref="http://d-nb.info/gnd/1029625700">
+      Schauenstein, Adolf
+     </persname>
+     <date notafter="1891" notbefore="1863">
+     </date>
+     <placename>
+      unknown
+     </placename>
+    </correspaction>
+    <correspaction type="received">
+     <persname ref="http://d-nb.info/gnd/119034557">
+      Rollett, Alexander
+     </persname>
+    </correspaction>
+   </correspdesc>
+   <correspdesc ref="http://gams.uni-graz.at/o:rollett.1863#L.104" source="#ROLLETT">
+    <correspaction type="sent">
+     <persname ref="http://d-nb.info/gnd/1029625700">
+      Schauenstein, Adolf
+     </persname>
+     <date notafter="1891" notbefore="1863">
+     </date>
+     <placename ref="http://www.geonames.org/2778067">
+      Graz
+     </placename>
+    </correspaction>
+    <correspaction type="received">
+     <persname ref="http://d-nb.info/gnd/119034557">
+      Rollett, Alexander
+     </persname>
+    </correspaction>
+   </correspdesc>
+   <correspdesc ref="http://gams.uni-graz.at/o:rollett.1863#L.105" source="#ROLLETT">
+    <correspaction type="sent">
+     <persname ref="http://d-nb.info/gnd/1029625700">
+      Schauenstein, Adolf
+     </persname>
+     <date notafter="1891" notbefore="1863">
+     </date>
+     <placename ref="http://www.geonames.org/2778067">
+      Graz
+     </placename>
+    </correspaction>
+    <correspaction type="received">
+     <persname ref="http://d-nb.info/gnd/119034557">
+      Rollett, Alexander
+     </persname>
+    </correspaction>
+   </correspdesc>
+   <correspdesc ref="http://gams.uni-graz.at/o:rollett.1863#L.106" source="#ROLLETT">
+    <correspaction type="sent">
+     <persname ref="http://d-nb.info/gnd/1029625700">
+      Schauenstein, Adolf
+     </persname>
+     <date notafter="1891" notbefore="1863">
+     </date>
+     <placename ref="http://www.geonames.org/2778067">
+      Graz
+     </placename>
+    </correspaction>
+    <correspaction type="received">
+     <persname ref="http://d-nb.info/gnd/119034557">
+      Rollett, Alexander
+     </persname>
+    </correspaction>
+   </correspdesc>
+   <correspdesc ref="http://gams.uni-graz.at/o:rollett.1864#L.174" source="#ROLLETT">
+    <correspaction type="sent">
+     <persname ref="http://d-nb.info/gnd/1029625700">
+      Schauenstein, Adolf
+     </persname>
+     <date notafter="1891" notbefore="1863">
+     </date>
+     <placename ref="http://www.geonames.org/2778067">
+      Graz
+     </placename>
+    </correspaction>
+    <correspaction type="received">
+     <persname ref="http://d-nb.info/gnd/119034557">
+      Rollett, Alexander
+     </persname>
+    </correspaction>
+   </correspdesc>
+   <correspdesc ref="http://gams.uni-graz.at/o:rollett.1871#L.561" source="#ROLLETT">
+    <correspaction type="sent">
+     <persname ref="http://d-nb.info/gnd/116804688">
+      Graber, Vitus
+     </persname>
+     <date notafter="1892" notbefore="1871">
+     </date>
+     <placename>
+      unknown
+     </placename>
+    </correspaction>
+    <correspaction type="received">
+     <persname ref="http://d-nb.info/gnd/119034557">
+      Rollett, Alexander
+     </persname>
+    </correspaction>
+   </correspdesc>
+   <correspdesc ref="http://gams.uni-graz.at/o:rollett.1872#L.614" source="#ROLLETT">
+    <correspaction type="sent">
+     <persname ref="http://d-nb.info/gnd/116626062">
+      Rosenthal, Isidor
+     </persname>
+     <date notafter="1903" notbefore="1872">
+     </date>
+     <placename ref="http://www.geonames.org/2929567">
+      Erlangen
+     </placename>
+    </correspaction>
+    <correspaction type="received">
+     <persname ref="http://d-nb.info/gnd/119034557">
+      Rollett, Alexander
+     </persname>
+    </correspaction>
+   </correspdesc>
+   <correspdesc ref="http://gams.uni-graz.at/o:rollett.1876#L.855" source="#ROLLETT">
+    <correspaction type="sent">
+     <persname ref="http://d-nb.info/gnd/116804688">
+      Graber, Vitus
+     </persname>
+     <date notafter="1891" notbefore="1876">
+     </date>
+     <placename ref="http://www.geonames.org/710719">
+      Czernowitz
+     </placename>
+    </correspaction>
+    <correspaction type="received">
+     <persname ref="http://d-nb.info/gnd/119034557">
+      Rollett, Alexander
+     </persname>
+    </correspaction>
+   </correspdesc>
+   <correspdesc ref="http://gams.uni-graz.at/o:rollett.1876#L.856" source="#ROLLETT">
+    <correspaction type="sent">
+     <persname ref="http://d-nb.info/gnd/118611046">
+      Schuchardt, Hugo
+     </persname>
+     <date notafter="1903" notbefore="1876">
+     </date>
+     <placename ref="http://www.geonames.org/2778067">
+      Graz
+     </placename>
+    </correspaction>
+    <correspaction type="received">
+     <persname ref="http://d-nb.info/gnd/119034557">
+      Rollett, Alexander
+     </persname>
+    </correspaction>
+   </correspdesc>
+   <correspdesc ref="http://gams.uni-graz.at/o:rollett.1876#L.857" source="#ROLLETT">
+    <correspaction type="sent">
+     <persname ref="http://d-nb.info/gnd/118611046">
+      Schuchardt, Hugo
+     </persname>
+     <date notafter="1903" notbefore="1876">
+     </date>
+     <placename ref="http://www.geonames.org/2778067">
+      Graz
+     </placename>
+    </correspaction>
+    <correspaction type="received">
+     <persname ref="http://d-nb.info/gnd/119034557">
+      Rollett, Alexander
+     </persname>
+    </correspaction>
+   </correspdesc>
+   <correspdesc ref="https://www.bokselskap.no/boker/collettbrevibsen/udatert-sui" source="#a92a2ecf-dd30-40d4-a9b9-51af2873303b">
+    <correspaction type="sent">
+     <persname ref="http://viaf.org/viaf/56718081">
+      Camilla Collett
+     </persname>
+     <date from="1877" to="1895">
+     </date>
+    </correspaction>
+    <correspaction type="received">
+     <persname ref="http://viaf.org/viaf/37987515">
+      Susanna Ibsen
+     </persname>
+    </correspaction>
+   </correspdesc>
+   <correspdesc ref="http://gams.uni-graz.at/o:rollett.1882#L.1240" source="#ROLLETT">
+    <correspaction type="sent">
+     <persname ref="http://d-nb.info/gnd/118930982">
+      Hofmann, Karl Berthold
+     </persname>
+     <date notafter="1891" notbefore="1882">
+     </date>
+     <placename ref="http://www.geonames.org/2778067">
+      Graz
+     </placename>
+    </correspaction>
+    <correspaction type="received">
+     <persname ref="http://d-nb.info/gnd/119034557">
+      Rollett, Alexander
+     </persname>
+    </correspaction>
+   </correspdesc>
+   <correspdesc ref="http://gams.uni-graz.at/o:rollett.1882#L.1241" source="#ROLLETT">
+    <correspaction type="sent">
+     <persname>
+      Schlömicher, [Albin]
+     </persname>
+     <date notafter="1893" notbefore="1882">
+     </date>
+     <placename ref="http://www.geonames.org/2778067">
+      Graz
+     </placename>
+    </correspaction>
+    <correspaction type="received">
+     <persname ref="http://d-nb.info/gnd/119034557">
+      Rollett, Alexander
+     </persname>
+    </correspaction>
+   </correspdesc>
+   <correspdesc ref="http://gams.uni-graz.at/o:rollett.1882#L.1242" source="#ROLLETT">
+    <correspaction type="sent">
+     <persname>
+      Waldhans [?], [NN]
+     </persname>
+     <date notafter="1893" notbefore="1882">
+     </date>
+     <placename>
+      unknown
+     </placename>
+    </correspaction>
+    <correspaction type="received">
+     <persname ref="http://d-nb.info/gnd/119034557">
+      Rollett, Alexander
+     </persname>
+    </correspaction>
+   </correspdesc>
+   <correspdesc ref="http://gams.uni-graz.at/o:rollett.1882#L.1243" source="#ROLLETT">
+    <correspaction type="sent">
+     <persname ref="http://d-nb.info/gnd/117528137">
+      Fossel, Viktor
+     </persname>
+     <date notafter="1893" notbefore="1882">
+     </date>
+     <placename ref="http://www.geonames.org/2778067">
+      Graz
+     </placename>
+    </correspaction>
+    <correspaction type="received">
+     <persname ref="http://d-nb.info/gnd/119034557">
+      Rollett, Alexander
+     </persname>
+    </correspaction>
+   </correspdesc>
+   <correspdesc ref="http://gams.uni-graz.at/o:rollett.1882#L.1256" source="#ROLLETT">
+    <correspaction type="sent">
+     <persname ref="http://d-nb.info/gnd/1019541296">
+      Lipp, Eduard
+     </persname>
+     <date notafter="1893" notbefore="1882">
+     </date>
+     <placename ref="http://www.geonames.org/2778067">
+      Graz
+     </placename>
+    </correspaction>
+    <correspaction type="received">
+     <persname ref="http://d-nb.info/gnd/119034557">
+      Rollett, Alexander
+     </persname>
+    </correspaction>
+   </correspdesc>
+   <correspdesc ref="http://gams.uni-graz.at/o:rollett.1882#L.1260" source="#ROLLETT">
+    <correspaction type="sent">
+     <persname ref="http://d-nb.info/gnd/1019541296">
+      Lipp, Eduard
+     </persname>
+     <date notafter="1893" notbefore="1882">
+     </date>
+     <placename ref="http://www.geonames.org/2778067">
+      Graz
+     </placename>
+    </correspaction>
+    <correspaction type="received">
+     <persname ref="http://d-nb.info/gnd/119034557">
+      Rollett, Alexander
+     </persname>
+    </correspaction>
+   </correspdesc>
+   <correspdesc ref="http://gams.uni-graz.at/o:rollett.1882#L.1261" source="#ROLLETT">
+    <correspaction type="sent">
+     <persname ref="http://d-nb.info/gnd/1019541296">
+      Lipp, Eduard
+     </persname>
+     <date notafter="1893" notbefore="1882">
+     </date>
+     <placename ref="http://www.geonames.org/2778067">
+      Graz
+     </placename>
+    </correspaction>
+    <correspaction type="received">
+     <persname ref="http://d-nb.info/gnd/119034557">
+      Rollett, Alexander
+     </persname>
+    </correspaction>
+   </correspdesc>
+   <correspdesc ref="http://gams.uni-graz.at/o:rollett.1882#L.1262" source="#ROLLETT">
+    <correspaction type="sent">
+     <persname ref="http://d-nb.info/gnd/102749728">
+      Klemensiewicz, Rudolf
+     </persname>
+     <date notafter="1893" notbefore="1882">
+     </date>
+     <placename ref="http://www.geonames.org/2778067">
+      Graz
+     </placename>
+    </correspaction>
+    <correspaction type="received">
+     <persname ref="http://d-nb.info/gnd/119034557">
+      Rollett, Alexander
+     </persname>
+    </correspaction>
+   </correspdesc>
+   <correspdesc ref="http://gams.uni-graz.at/o:rollett.1882#L.1273" source="#ROLLETT">
+    <correspaction type="sent">
+     <persname ref="http://d-nb.info/gnd/1019541296">
+      Lipp, Eduard
+     </persname>
+     <date notafter="1893" notbefore="1882">
+     </date>
+     <placename ref="http://www.geonames.org/2778067">
+      Graz
+     </placename>
+    </correspaction>
+    <correspaction type="received">
+     <persname ref="http://d-nb.info/gnd/119034557">
+      Rollett, Alexander
+     </persname>
+    </correspaction>
+   </correspdesc>
+   <correspdesc ref="http://gams.uni-graz.at/o:rollett.1882#L.1315" source="#ROLLETT">
+    <correspaction type="sent">
+     <persname ref="http://d-nb.info/gnd/118930982">
+      Hofmann, Karl Berthold
+     </persname>
+     <date notafter="1893" notbefore="1882">
+     </date>
+     <placename ref="http://www.geonames.org/2778067">
+      Graz
+     </placename>
+    </correspaction>
+    <correspaction type="received">
+     <persname ref="http://d-nb.info/gnd/119034557">
+      Rollett, Alexander
+     </persname>
+    </correspaction>
+   </correspdesc>
+   <correspdesc ref="http://gams.uni-graz.at/o:rollett.1885#L.1435" source="#ROLLETT">
+    <correspaction type="sent">
+     <persname>
+      Plazer, [NN]
+     </persname>
+     <date notafter="1893" notbefore="1885">
+     </date>
+     <placename ref="http://www.geonames.org/2778067">
+      Graz
+     </placename>
+    </correspaction>
+    <correspaction type="received">
+     <persname ref="http://d-nb.info/gnd/119034557">
+      Rollett, Alexander
+     </persname>
+    </correspaction>
+   </correspdesc>
+   <correspdesc ref="http://gams.uni-graz.at/o:rollett.1886#L.1596" source="#ROLLETT">
+    <correspaction type="sent">
+     <persname ref="http://d-nb.info/gnd/117614033">
+      Wölfler, Anton
+     </persname>
+     <date notafter="1893" notbefore="1886">
+     </date>
+     <placename ref="http://www.geonames.org/2778067">
+      Graz
+     </placename>
+    </correspaction>
+    <correspaction type="received">
+     <persname ref="http://d-nb.info/gnd/119034557">
+      Rollett, Alexander
+     </persname>
+    </correspaction>
+   </correspdesc>
+   <correspdesc ref="http://gams.uni-graz.at/o:rollett.1887#L.1646" source="#ROLLETT">
+    <correspaction type="sent">
+     <persname ref="http://d-nb.info/gnd/102749728">
+      Klemensiewicz, Rudolf
+     </persname>
+     <date notafter="1893" notbefore="1887">
+     </date>
+     <placename ref="http://www.geonames.org/2778067">
+      Graz
+     </placename>
+    </correspaction>
+    <correspaction type="received">
+     <persname ref="http://d-nb.info/gnd/119034557">
+      Rollett, Alexander
+     </persname>
+    </correspaction>
+   </correspdesc>
+   <correspdesc ref="http://gams.uni-graz.at/o:rollett.1887#L.1650" source="#ROLLETT">
+    <correspaction type="sent">
+     <persname ref="http://d-nb.info/gnd/1019541296">
+      Lipp, Eduard
+     </persname>
+     <date notafter="1892" notbefore="1887">
+     </date>
+     <placename ref="http://www.geonames.org/2778067">
+      Graz
+     </placename>
+    </correspaction>
+    <correspaction type="received">
+     <persname ref="http://d-nb.info/gnd/119034557">
+      Rollett, Alexander
+     </persname>
+    </correspaction>
+   </correspdesc>
+   <correspdesc ref="http://gams.uni-graz.at/o:rollett.1889#L.1811" source="#ROLLETT">
+    <correspaction type="sent">
+     <persname ref="http://d-nb.info/gnd/130658405">
+      Karajan, Max
+     </persname>
+     <date when="1889-08">
+     </date>
+     <placename ref="http://www.geonames.org/2782070">
+      Markt Aussee
+     </placename>
+    </correspaction>
+    <correspaction type="received">
+     <persname ref="http://d-nb.info/gnd/119034557">
+      Rollett, Alexander
+     </persname>
+    </correspaction>
+   </correspdesc>
+   <correspdesc ref="http://gams.uni-graz.at/o:rollett.1889#L.1812" source="#ROLLETT">
+    <correspaction type="sent">
+     <persname ref="http://d-nb.info/gnd/1011358298">
+      Glax, Julius
+     </persname>
+     <date when="1889-08">
+     </date>
+     <placename ref="http://www.geonames.org/3194099">
+      Abbazia
+     </placename>
+    </correspaction>
+    <correspaction type="received">
+     <persname ref="http://d-nb.info/gnd/119034557">
+      Rollett, Alexander
+     </persname>
+    </correspaction>
+   </correspdesc>
+   <correspdesc ref="http://gams.uni-graz.at/o:rollett.1889#L.1813" source="#ROLLETT">
+    <correspaction type="sent">
+     <persname>
+      Laker, Carl
+     </persname>
+     <date when="1889-08">
+     </date>
+     <placename ref="http://www.geonames.org/2768220">
+      Pusarnitz
+     </placename>
+    </correspaction>
+    <correspaction type="received">
+     <persname ref="http://d-nb.info/gnd/119034557">
+      Rollett, Alexander
+     </persname>
+    </correspaction>
+   </correspdesc>
+   <correspdesc ref="http://sauer-seuffert.onb.ac.at/node/8499" source="#ONBSASE">
+    <correspaction type="sent">
+     <persname ref="http://d-nb.info/gnd/118605747">
+      Sauer, August
+     </persname>
+     <placename ref="http://www.geonames.org/3067696">
+      Prag
+     </placename>
+     <date when="1889-08-01">
+     </date>
+    </correspaction>
+    <correspaction type="received">
+     <persname ref="http://d-nb.info/gnd/117470902">
+      Seuffert, Bernhard
+     </persname>
+     <placename ref="http://www.geonames.org/2778067">
+      Graz
+     </placename>
+    </correspaction>
+   </correspdesc>
+   <correspdesc ref="https://schnitzler-briefe.acdh.oeaw.ac.at/pages/show.html?document=1889-08-02_01.xml&amp;stylesheet=plain" source="#asbw_ea0a6dba-5789-4e6b-8631-7f9f329678e4">
+    <correspaction type="sent">
+     <persname ref="https://d-nb.info/gnd/116724919">
+      Mamroth, Fedor
+     </persname>
+     <placename ref="http://sws.geonames.org/2925533/">
+      Frankfurt am Main
+     </placename>
+     <date when="1889-08-02">
+      2. 8. 1889
+     </date>
+    </correspaction>
+    <correspaction type="received">
+     <persname ref="https://d-nb.info/gnd/118609807">
+      Schnitzler, Arthur
+     </persname>
+     <placename ref="https://www.geonames.org/2761333">
+      Wien
+     </placename>
+    </correspaction>
+   </correspdesc>
+   <correspdesc ref="http://sauer-seuffert.onb.ac.at/node/8500" source="#ONBSASE">
+    <correspaction type="sent">
+     <persname ref="http://d-nb.info/gnd/117470902">
+      Seuffert, Bernhard
+     </persname>
+     <placename ref="http://www.geonames.org/2778067">
+      Graz
+     </placename>
+     <date when="1889-08-03">
+     </date>
+    </correspaction>
+    <correspaction type="received">
+     <persname ref="http://d-nb.info/gnd/118605747">
+      Sauer, August
+     </persname>
+     <placename ref="http://www.geonames.org/3067696">
+      Prag
+     </placename>
+    </correspaction>
+   </correspdesc>
+   <correspdesc ref="http://sauer-seuffert.onb.ac.at/node/8501" source="#ONBSASE">
+    <correspaction type="sent">
+     <persname ref="http://d-nb.info/gnd/118605747">
+      Sauer, August
+     </persname>
+     <placename ref="http://www.geonames.org/3067696">
+      Prag
+     </placename>
+     <date when="1889-08-05">
+     </date>
+    </correspaction>
+    <correspaction type="received">
+     <persname ref="http://d-nb.info/gnd/117470902">
+      Seuffert, Bernhard
+     </persname>
+     <placename ref="http://www.geonames.org/2778067">
+      Graz
+     </placename>
+    </correspaction>
+   </correspdesc>
+  </profiledesc>
+ </teiheader>
+ <text>
+  <body>
+   <p>
+   </p>
+  </body>
+ </text>
+</tei>

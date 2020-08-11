@@ -1,0 +1,7 @@
+__pycache__/*
+*/__pycache__/*
+.ipynb_checkpoints/*
+4_ifc/4_py/.ipynb_checkpoints/*
+D_dbs/3_py/__pycache__/*
+D_dbs/3_py/.ipynb_checkpoints/*
+D_dbs/cmif/.ipynb_checkpoints/*
