@@ -26,6 +26,11 @@ navigation
 |web|[correspSearch net](https://correspsearch.net/)|[editor](https://correspsearch.net/creator/index.xql?l=en)|
 ||[gnd](https://d-nb.info/gnd/118609807)|[geonames](https://www.geonames.org/2761333)|
 
+# workflows
+
++ [workflow](wrkFlwArthurSchnitzlerBriefe.md) Arthur Schnitzler Briefe
++ [CMIF issue workaround](wrkFlw_CMIF_uncertainDates.md) Arthur Schnitzler Briefe
+
 # license / contribute
 
 all code and my markdown files are released
