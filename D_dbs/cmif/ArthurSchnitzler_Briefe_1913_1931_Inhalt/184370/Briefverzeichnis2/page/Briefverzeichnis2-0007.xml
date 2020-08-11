@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus - print 0.1(htr_id=23966)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab/Gundram Leifert/gundram.leifert@uni-rostock.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.3.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.3.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-07-17T15:19:14.291+02:00</Created>
+        <LastChange>2020-07-19T13:14:52.573+02:00</LastChange>
+        <TranskribusMetadata docId="184370" pageId="7384213" pageNr="7" tsid="34865671" status="IN_PROGRESS" userId="65134" imgUrl="https://files.transkribus.eu/Get?id=JEKNCDORFPGUTHVLPBLBVSOM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YOXOAWNDXHGSMVOBVWJRMBJF" imageId="4429471"/>
+    </Metadata>
+    <Page imageFilename="Briefverzeichnis2-0007.jpg" imageWidth="1293" imageHeight="2220">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1595157340921" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1595157223597_2314"/>
+                <RegionRefIndexed index="1" regionRef="region_1595157227861_2317"/>
+                <RegionRefIndexed index="2" regionRef="region_1595157232297_2320"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="region_1595157223597_2314" custom="readingOrder {index:0;}">
+            <Coords points="134,183 450,183 450,889 134,889"/>
+            <TextLine id="region_1595157223597_2314l1" custom="readingOrder {index:0;}">
+                <Coords points="155,225 344,226 352,234 365,226 431,226 431,190 329,198 155,189"/>
+                <Baseline points="160,217 186,217 213,218 239,218 266,219 293,219 319,220 346,220 372,220 399,219 426,219"/>
+                <TextEquiv>
+                    <Unicode>Wassermann, Julie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1595157223597_2314l2" custom="readingOrder {index:1;}">
+                <Coords points="194,266 240,266 250,260 264,274 279,274 298,262 322,274 336,274 344,266 370,266 370,228 354,236 270,238 257,251 245,251 231,237 194,237"/>
+                <Baseline points="199,259 226,259 254,259 282,258 309,258 337,258 365,258"/>
+                <TextEquiv>
+                    <Unicode>20. 5. 1928</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1595157223597_2314l3" custom="readingOrder {index:2;}">
+                <Coords points="156,306 435,305 435,274 416,277 408,269 382,277 288,269 273,284 231,270 156,269"/>
+                <Baseline points="161,294 187,297 214,299 241,300 268,300 295,299 322,299 349,298 376,298 403,298 430,299"/>
+                <TextEquiv>
+                    <Unicode>Weilen, Alexander</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1595157223597_2314l4" custom="readingOrder {index:3;}">
+                <Coords points="199,346 359,346 365,340 376,347 428,346 428,316 320,318 295,308 269,314 249,309 239,317 232,309 199,309"/>
+                <Baseline points="204,333 231,336 258,337 286,338 313,338 340,338 368,337 395,338 423,339"/>
+                <TextEquiv>
+                    <Unicode>Weil Ritter von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1595157223597_2314l5" custom="readingOrder {index:4;}">
+                <Coords points="193,386 219,393 232,383 300,383 321,394 334,394 342,386 354,395 372,394 371,355 304,357 297,364 286,357 248,356 240,364 230,357 193,357"/>
+                <Baseline points="198,375 226,379 254,380 282,379 310,378 338,377 366,377"/>
+                <TextEquiv>
+                    <Unicode>19. 11. 1917</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1595157223597_2314l6" custom="readingOrder {index:5;}">
+                <Coords points="157,419 168,426 227,425 239,434 268,435 277,426 351,426 352,398 319,397 297,388 281,396 257,388 246,396 232,386 219,393 158,389"/>
+                <Baseline points="162,415 188,416 214,418 240,418 267,419 293,419 319,419 346,419"/>
+                <TextEquiv>
+                    <Unicode>Weiß, Julian</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1595157223597_2314l7" custom="readingOrder {index:6;}">
+                <Coords points="197,467 221,471 242,462 269,467 295,467 301,462 342,474 355,466 370,466 369,436 297,439 277,429 254,448 239,437 196,437"/>
+                <Baseline points="201,458 228,459 255,460 283,459 310,458 337,457 365,458"/>
+                <TextEquiv>
+                    <Unicode>17. 6. 1931</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1595157223597_2314l8" custom="readingOrder {index:7;}">
+                <Coords points="160,505 248,505 263,514 286,505 368,506 369,468 353,467 339,476 288,469 277,479 161,468"/>
+                <Baseline points="165,496 193,496 221,497 249,498 278,498 306,499 334,498 363,498"/>
+                <TextEquiv>
+                    <Unicode>Weisse, Adolf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1595157223597_2314l9" custom="readingOrder {index:8;}">
+                <Coords points="199,546 301,544 312,545 322,555 342,546 371,551 379,549 380,517 305,517 296,525 288,517 250,516 238,523 232,517 200,516"/>
+                <Baseline points="204,535 232,537 260,537 289,537 317,537 345,538 374,541"/>
+                <TextEquiv>
+                    <Unicode>11. 11. 1914</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1595157223597_2314l10" custom="readingOrder {index:9;}">
+                <Coords points="165,587 422,586 423,555 375,548 351,563 295,549 250,558 219,548 166,549"/>
+                <Baseline points="170,573 197,574 224,576 252,576 279,577 307,577 334,577 362,577 389,577 417,578"/>
+                <TextEquiv>
+                    <Unicode>Weizsaecker, Otto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1595157223597_2314l11" custom="readingOrder {index:10;}">
+                <Coords points="197,626 246,626 259,620 269,626 299,623 319,634 334,634 343,626 375,634 376,596 298,601 286,589 274,588 251,610 232,597 198,597"/>
+                <Baseline points="203,615 230,617 258,618 286,617 314,617 342,617 370,619"/>
+                <TextEquiv>
+                    <Unicode>12. 6. 1914</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1595157223597_2314l12" custom="readingOrder {index:11;}">
+                <Coords points="194,665 248,666 264,659 271,666 300,663 321,675 336,674 344,665 370,674 370,635 304,637 298,643 266,637 253,649 232,637 194,637"/>
+                <Baseline points="199,657 226,658 254,657 282,657 309,657 337,656 365,655"/>
+                <TextEquiv>
+                    <Unicode>22. 1.1919</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1595157223597_2314l13" custom="readingOrder {index:12;}">
+                <Coords points="167,706 371,706 372,677 310,676 303,669 281,669 271,677 264,670 234,668 206,677 198,669 168,668"/>
+                <Baseline points="172,693 199,695 227,697 255,698 282,698 310,698 338,697 366,696"/>
+                <TextEquiv>
+                    <Unicode>Werfel, Franz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1595157223597_2314l14" custom="readingOrder {index:13;}">
+                <Coords points="219,755 232,754 252,740 265,740 271,746 302,745 319,754 336,754 349,745 374,746 374,708 360,708 351,717 300,721 287,709 279,709 254,731 245,731 232,718 219,718"/>
+                <Baseline points="224,740 253,738 282,738 311,738 340,738 369,737"/>
+                <TextEquiv>
+                    <Unicode>5. 6. 1926</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1595157223597_2314l15" custom="readingOrder {index:14;}">
+                <Coords points="199,786 246,786 253,779 271,786 335,791 340,786 380,786 380,748 299,761 285,749 273,749 252,770 232,757 199,756"/>
+                <Baseline points="204,778 232,777 261,777 289,777 318,777 346,777 375,775"/>
+                <TextEquiv>
+                    <Unicode>22. 6. 1926</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1595157223597_2314l16" custom="readingOrder {index:15;}">
+                <Coords points="156,820 169,826 370,826 370,788 347,794 287,789 278,798 211,798 198,789 156,789"/>
+                <Baseline points="161,814 186,815 212,816 237,817 263,818 288,818 314,818 339,818 365,816"/>
+                <TextEquiv>
+                    <Unicode>Werner, Edith</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1595157223597_2314l17" custom="readingOrder {index:16;}">
+                <Coords points="195,866 263,865 275,874 306,869 378,875 379,839 304,836 293,844 286,837 271,837 254,851 239,837 195,837"/>
+                <Baseline points="200,857 229,859 258,859 287,859 316,859 345,860 374,861"/>
+                <TextEquiv>
+                    <Unicode>10. 4. 1924</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Wassermann, Julie
+20. 5. 1928
+Weilen, Alexander
+Weil Ritter von
+19. 11. 1917
+Weiß, Julian
+17. 6. 1931
+Weisse, Adolf
+11. 11. 1914
+Weizsaecker, Otto
+12. 6. 1914
+22. 1.1919
+Werfel, Franz
+5. 6. 1926
+22. 6. 1926
+Werner, Edith
+10. 4. 1924</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1595157227861_2317" custom="readingOrder {index:1;}">
+            <Coords points="470,181 812,181 812,879 470,879"/>
+            <TextLine id="region_1595157227861_2317l1" custom="readingOrder {index:0;}">
+                <Coords points="506,226 547,225 580,235 600,226 624,234 638,226 711,226 711,188 697,188 687,197 642,188 628,201 599,189 576,196 506,189"/>
+                <Baseline points="511,216 538,217 566,217 594,218 622,219 650,219 678,218 706,217"/>
+                <TextEquiv>
+                    <Unicode>Wiegler, Paul</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1595157227861_2317l2" custom="readingOrder {index:1;}">
+                <Coords points="545,267 575,274 583,266 643,262 663,274 678,274 686,266 715,273 716,236 649,236 641,244 631,237 546,237"/>
+                <Baseline points="550,258 576,258 603,258 630,259 656,259 683,258 710,258"/>
+                <TextEquiv>
+                    <Unicode>19. 10. 1927</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1595157227861_2317l3" custom="readingOrder {index:2;}">
+                <Coords points="559,307 597,303 614,316 632,305 658,307 666,315 679,314 688,306 699,315 712,315 712,275 649,277 640,285 631,277 615,277 595,280 587,288 574,277 559,277"/>
+                <Baseline points="564,300 592,299 621,299 649,299 678,300 707,299"/>
+                <TextEquiv>
+                    <Unicode>2. 3. 1929</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1595157227861_2317l4" custom="readingOrder {index:3;}">
+                <Coords points="543,347 574,355 597,338 608,338 617,346 643,343 665,354 678,348 694,354 704,345 718,346 718,316 648,317 640,323 620,311 601,328 573,317 543,317"/>
+                <Baseline points="548,338 575,339 603,338 630,338 658,337 685,337 713,337"/>
+                <TextEquiv>
+                    <Unicode>23. 8. 1930</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1595157227861_2317l5" custom="readingOrder {index:4;}">
+                <Coords points="507,386 743,385 743,360 720,357 712,348 673,356 624,349 606,357 507,348"/>
+                <Baseline points="512,376 537,376 562,376 587,376 612,377 637,377 662,377 687,377 712,377 738,377"/>
+                <TextEquiv>
+                    <Unicode>Wiener Bezirks-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1595157227861_2317l6" custom="readingOrder {index:5;}">
+                <Coords points="545,426 739,426 739,397 698,398 678,389 631,396 624,389 608,389 600,397 573,398 545,389"/>
+                <Baseline points="550,417 576,417 602,417 628,417 655,417 681,417 707,418 734,419"/>
+                <TextEquiv>
+                    <Unicode>krankenkasse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1595157227861_2317l7" custom="readingOrder {index:6;}">
+                <Coords points="547,466 566,473 595,464 657,467 664,474 676,474 684,466 725,466 725,429 703,429 695,437 648,437 641,444 631,437 607,437 590,448 574,437 547,437"/>
+                <Baseline points="552,455 580,457 608,457 636,457 664,457 692,456 720,457"/>
+                <TextEquiv>
+                    <Unicode>13. 12. 1928</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1595157227861_2317l8" custom="readingOrder {index:7;}">
+                <Coords points="512,506 577,507 584,514 606,506 646,514 662,506 759,507 766,475 695,477 682,469 662,484 655,477 590,476 584,469 513,469"/>
+                <Baseline points="517,495 544,497 571,498 598,498 625,498 652,498 679,498 706,498 733,498 760,499"/>
+                <TextEquiv>
+                    <Unicode>Wildgans, Anton</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1595157227861_2317l9" custom="readingOrder {index:8;}">
+                <Coords points="542,546 591,546 608,540 624,554 641,545 664,554 701,554 721,547 721,517 647,517 638,523 627,516 611,530 597,530 584,517 542,517"/>
+                <Baseline points="547,537 575,538 603,538 631,537 659,536 687,536 716,538"/>
+                <TextEquiv>
+                    <Unicode>20. 4. 1930</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1595157227861_2317l10" custom="readingOrder {index:9;}">
+                <Coords points="547,587 592,587 608,580 614,586 651,586 679,594 717,585 716,555 646,557 639,564 632,557 617,557 603,571 580,549 546,557"/>
+                <Baseline points="551,577 577,578 604,578 631,577 657,576 684,575 711,573"/>
+                <TextEquiv>
+                    <Unicode>16. 2. 1931</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1595157227861_2317l11" custom="readingOrder {index:10;}">
+                <Coords points="510,626 637,625 672,634 771,626 772,588 745,595 691,589 679,601 647,589 624,597 511,589"/>
+                <Baseline points="515,616 540,616 565,616 590,617 615,617 640,618 665,618 690,618 715,618 740,618 766,617"/>
+                <TextEquiv>
+                    <Unicode>Winternitz, Jakob</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1595157227861_2317l12" custom="readingOrder {index:11;}">
+                <Coords points="548,666 570,665 602,667 605,639 600,639 598,636 551,636"/>
+                <Baseline points="554,655 598,659"/>
+                <TextEquiv>
+                    <Unicode>von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1595157227861_2317l13" custom="readingOrder {index:12;}">
+                <Coords points="559,710 571,710 580,702 589,707 654,705 664,714 704,706 717,715 726,711 727,678 663,676 638,683 630,676 560,677"/>
+                <Baseline points="564,694 590,696 616,696 642,697 668,698 694,698 721,698"/>
+                <TextEquiv>
+                    <Unicode>7. 12. 1914</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1595157227861_2317l14" custom="readingOrder {index:13;}">
+                <Coords points="506,744 584,746 592,754 623,746 695,746 703,754 729,744 776,746 776,717 760,718 749,708 725,708 711,720 696,709 634,718 600,717 591,708 506,710"/>
+                <Baseline points="511,736 537,736 563,737 589,737 615,737 641,737 667,738 693,738 719,738 745,738 771,738"/>
+                <TextEquiv>
+                    <Unicode>Wohlgemuth, Else</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1595157227861_2317l15" custom="readingOrder {index:14;}">
+                <Coords points="541,786 565,786 577,794 598,780 617,787 653,785 669,792 723,786 723,757 648,757 639,764 621,756 603,771 583,757 541,757"/>
+                <Baseline points="546,777 574,778 603,778 632,777 660,776 689,775 718,777"/>
+                <TextEquiv>
+                    <Unicode>14. 1. 1931</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1595157227861_2317l16" custom="readingOrder {index:15;}">
+                <Coords points="508,819 544,827 739,825 739,797 670,790 653,798 639,789 608,797 580,797 565,789 508,791"/>
+                <Baseline points="513,814 540,815 568,817 595,818 623,818 651,818 678,818 706,818 734,817"/>
+                <TextEquiv>
+                    <Unicode>Woiwode, Lina</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1595157227861_2317l17" custom="readingOrder {index:16;}">
+                <Coords points="547,866 611,862 616,867 689,874 696,866 725,866 725,829 705,829 695,837 616,837 602,851 581,837 547,837"/>
+                <Baseline points="552,858 580,859 608,859 636,858 664,858 692,857 720,858"/>
+                <TextEquiv>
+                    <Unicode>22. 2. 1918</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Wiegler, Paul
+19. 10. 1927
+2. 3. 1929
+23. 8. 1930
+Wiener Bezirks-
+krankenkasse
+13. 12. 1928
+Wildgans, Anton
+20. 4. 1930
+16. 2. 1931
+Winternitz, Jakob
+von
+7. 12. 1914
+Wohlgemuth, Else
+14. 1. 1931
+Woiwode, Lina
+22. 2. 1918</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1595157232297_2320" custom="readingOrder {index:2;}">
+            <Coords points="829,168 1165,168 1165,883 829,883"/>
+            <TextLine id="region_1595157232297_2320l1" custom="readingOrder {index:0;}">
+                <Coords points="848,224 1048,234 1056,226 1138,221 1138,196 1104,189 1057,188 1045,200 991,189 968,197 951,189 848,189"/>
+                <Baseline points="853,217 878,217 903,218 929,218 954,218 980,219 1005,219 1031,219 1056,219 1082,219 1107,218 1133,217"/>
+                <TextEquiv>
+                    <Unicode>York-Steiner, Hein-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1595157232297_2320l2" custom="readingOrder {index:1;}">
+                <Coords points="874,265 938,267 939,235 934,235 928,229 920,229 916,232 907,228 896,229 889,236 875,235"/>
+                <Baseline points="879,258 906,258 933,260"/>
+                <TextEquiv>
+                    <Unicode>rich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1595157232297_2320l3" custom="readingOrder {index:2;}">
+                <Coords points="885,307 946,301 951,306 989,304 1010,314 1028,309 1039,315 1069,313 1069,276 985,278 976,269 960,269 938,291 919,276 885,277"/>
+                <Baseline points="890,299 919,300 948,299 977,298 1006,297 1035,298 1064,301"/>
+                <TextEquiv>
+                    <Unicode>22. 8. 1919</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1595157232297_2320l4" custom="readingOrder {index:3;}">
+                <Coords points="847,346 918,346 926,354 936,354 945,346 1008,346 1008,308 993,309 984,317 975,317 967,309 944,309 932,321 910,317 902,309 884,313 847,309"/>
+                <Baseline points="852,337 877,339 902,340 927,339 952,339 977,339 1003,340"/>
+                <TextEquiv>
+                    <Unicode>Zeiss, Karl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1595157232297_2320l5" custom="readingOrder {index:4;}">
+                <Coords points="887,386 902,385 919,394 941,379 954,391 989,382 1016,395 1029,388 1052,395 1068,386 1067,356 992,356 984,365 976,357 932,357 927,362 920,356 886,357"/>
+                <Baseline points="891,379 919,380 948,380 976,379 1005,378 1033,377 1062,374"/>
+                <TextEquiv>
+                    <Unicode>24. 7. 1917</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1595157232297_2320l6" custom="readingOrder {index:5;}">
+                <Coords points="846,426 968,426 976,434 991,427 1061,426 1061,397 1039,389 1020,397 1000,389 989,398 956,389 935,397 846,389"/>
+                <Baseline points="851,418 876,419 902,419 927,419 953,419 979,419 1004,419 1030,418 1056,417"/>
+                <TextEquiv>
+                    <Unicode>Zimmels, Salo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1595157232297_2320l7" custom="readingOrder {index:6;}">
+                <Coords points="880,466 953,466 954,437 881,437"/>
+                <Baseline points="885,457 916,459 948,458"/>
+                <TextEquiv>
+                    <Unicode>mon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1595157232297_2320l8" custom="readingOrder {index:7;}">
+                <Coords points="888,506 903,514 916,506 986,504 1008,514 1044,505 1056,513 1064,510 1064,477 991,477 983,485 968,476 888,477"/>
+                <Baseline points="893,497 920,499 948,499 976,498 1003,498 1031,498 1059,502"/>
+                <TextEquiv>
+                    <Unicode>17. 10. 1914</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1595157232297_2320l9" custom="readingOrder {index:8;}">
+                <Coords points="885,545 933,546 949,534 961,546 1002,546 1009,552 1025,545 1068,547 1068,515 1058,510 1038,518 993,517 986,524 975,516 939,520 928,509 885,515"/>
+                <Baseline points="890,535 918,536 947,537 976,537 1005,537 1034,537 1063,538"/>
+                <TextEquiv>
+                    <Unicode>16. 1. 1918</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1595157232297_2320l10" custom="readingOrder {index:9;}">
+                <Coords points="853,587 1131,586 1131,556 1080,557 1067,548 968,557 960,549 936,557 853,549"/>
+                <Baseline points="858,577 884,577 911,577 938,577 965,577 992,577 1018,577 1045,577 1072,578 1099,578 1126,578"/>
+                <TextEquiv>
+                    <Unicode>Zuckerkandl, Berta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1595157232297_2320l11" custom="readingOrder {index:10;}">
+                <Coords points="907,629 936,626 946,619 964,634 976,634 986,624 1012,631 1031,622 1047,632 1061,631 1060,590 1044,597 992,597 985,604 976,597 942,598 935,605 907,597"/>
+                <Baseline points="912,620 940,619 969,618 998,618 1027,617 1056,618"/>
+                <TextEquiv>
+                    <Unicode>4. 3. 1929</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1595157232297_2320l12" custom="readingOrder {index:11;}">
+                <Coords points="850,666 1140,665 1140,637 1088,629 968,637 957,628 938,635 903,629 893,639 878,629 850,629"/>
+                <Baseline points="855,657 880,657 905,657 931,657 956,657 982,657 1007,657 1033,657 1058,657 1084,657 1109,657 1135,658"/>
+                <TextEquiv>
+                    <Unicode>Zuckerkandl, Victor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1595157305731_2331" custom="readingOrder {index:12;}">
+                <Coords points="910,677 1063,676 1063,712 1047,714 962,711 907,706"/>
+                <Baseline points="913,698 933,700 943,697 971,697 1000,697 1029,698 1058,696"/>
+                <TextEquiv>
+                    <Unicode>2. 3. 1929</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1595157232297_2320l15" custom="readingOrder {index:13;}">
+                <Coords points="848,746 920,746 929,755 953,745 1059,746 1060,717 1031,717 1022,708 1000,717 992,709 970,707 957,717 937,718 927,709 898,716 880,708 849,710"/>
+                <Baseline points="853,730 878,735 903,737 928,738 953,738 978,737 1003,736 1028,736 1054,736"/>
+                <TextEquiv>
+                    <Unicode>Zweig, Stefan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1595157232297_2320l16" custom="readingOrder {index:14;}">
+                <Coords points="906,786 1001,787 1007,794 1022,794 1031,786 1047,785 1064,795 1065,757 993,757 982,764 974,757 953,756 936,765 927,757 906,757"/>
+                <Baseline points="911,776 940,777 970,777 1000,777 1030,777 1060,779"/>
+                <TextEquiv>
+                    <Unicode>2. 12. 1914</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1595157232297_2320l17" custom="readingOrder {index:15;}">
+                <Coords points="907,826 989,825 1001,826 1009,834 1022,834 1030,826 1065,830 1066,795 990,797 981,803 976,797 940,801 927,789 908,789"/>
+                <Baseline points="912,815 941,816 971,816 1000,816 1030,817 1060,819"/>
+                <TextEquiv>
+                    <Unicode>6. 11.1924</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1595157232297_2320l18" custom="readingOrder {index:16;}">
+                <Coords points="881,866 936,866 953,860 959,866 996,867 1008,874 1031,866 1064,866 1065,830 992,837 985,844 960,837 948,849 926,829 882,837"/>
+                <Baseline points="887,856 915,855 944,856 973,857 1002,857 1031,858 1060,857"/>
+                <TextEquiv>
+                    <Unicode>16. 1. 1928</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>York-Steiner, Hein-
+rich
+22. 8. 1919
+Zeiss, Karl
+24. 7. 1917
+Zimmels, Salo
+mon
+17. 10. 1914
+16. 1. 1918
+Zuckerkandl, Berta
+4. 3. 1929
+Zuckerkandl, Victor
+2. 3. 1929
+Zweig, Stefan
+2. 12. 1914
+6. 11.1924
+16. 1. 1928</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
