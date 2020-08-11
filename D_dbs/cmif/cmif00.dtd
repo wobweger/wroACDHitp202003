@@ -1,0 +1,28 @@
+<!ELEMENT TEI (teiHeader,text)>
+<!ELEMENT teiHeader (fileDesc,profileDesc+)>
+<!ELEMENT fileDesc (titleStmt,publicationStmt,sourceDesc)>
+<!ELEMENT titleStmt (title,editor)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT editor (#PCDATA|email)*>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT publicationStmt (publisher,availability,date,idno)>
+<!ELEMENT publisher (ref)>
+<!ELEMENT ref (#PCDATA)>
+<!ATTLIST ref target CDATA #REQUIRED>
+<!ELEMENT availability (licence)>
+<!ELEMENT licence (#PCDATA)>
+<!ATTLIST licence target CDATA #REQUIRED>
+<!ELEMENT date EMPTY>
+<!ATTLIST date when NMTOKEN #REQUIRED>
+<!ELEMENT idno (#PCDATA)>
+<!ATTLIST idno type NMTOKEN #REQUIRED>
+<!ELEMENT sourceDesc (bibl)>
+<!ELEMENT bibl (#PCDATA)>
+<!ATTLIST bibl type NMTOKEN #REQUIRED>
+<!ELEMENT profileDesc (correspDesc+)>
+<!ELEMENT correspDesc (correspAction+)>
+<!ATTLIST correspDesc source CDATA #FIXED "#sb5b8e07-e0c8-47e6-8add-494150f56e37">
+<!ATTLIST correspDesc key NMTOKEN #REQUIRED>
+<!ELEMENT correspAction (persName,date?,placeName)>
+<!ATTLIST correspAction type (received|sent) #REQUIRED><!ELEMENT persName (#PCDATA)><!ATTLIST persName ref CDATA #REQUIRED><!ELEMENT placeName (#PCDATA)><!ATTLIST placeName ref CDATA #REQUIRED><!ELEMENT text (body)><!ELEMENT body (p)>
+<!ELEMENT p EMPTY>

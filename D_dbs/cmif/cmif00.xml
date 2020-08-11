@@ -1,0 +1,216 @@
+<!DOCTYPE TEI SYSTEM "cmif00.dtd">
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Briefe Franziska Lawners an Arthur Schnitzler</title>
+                <editor>Martin Anton Müller<email>martin.anton.mueller@oeaw.ac.at</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://schnitzler-briefe.acdh.oeaw.ac.at">Martin Anton Müller</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/null/">CC0</licence>
+                </availability>
+                <date when="2020-06-04T18:12:22.448-02:00"/>
+                <idno type="url">https://shared.acdh.oeaw.ac.at/schnitzler-briefe/cmif/Briefe_Franziska_Lawners_an_Arthur_Schnitzler-2020-06-04T18_12_22.448-02_00.xml</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="sb5b8e07-e0c8-47e6-8add-494150f56e37">Arthur Schnitzler: Frau Bertha Garlan. Historisch-kritische Ausgabe. Herausgegeben von Gerhard Hubmann und Isabella Schwentner und Mitarbeit von Anna Lindner und Martin Anton Müller. Berlin, Boston: De Gruyter 2015 (Arthur Schnitzler: Werke in historisch-kritischen Ausgaben. Herausgegeben von Konstanze Fliedl), S. 281–298.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#sb5b8e07-e0c8-47e6-8add-494150f56e37" key="1">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1190590301">Lawner, Franziska</persName>
+                    <date when="1899-03-29"/>
+                    <placeName ref="http://www.geonames.org/3103402">Bielsko-Biala</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <profileDesc>
+            <correspDesc source="#sb5b8e07-e0c8-47e6-8add-494150f56e37" key="2">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1190590301">Lawner, Franziska</persName>
+                    <date when="1899-04-06"/>
+                    <placeName ref="http://www.geonames.org/3103402">Bielsko-Biala</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+        
+            <correspDesc source="#sb5b8e07-e0c8-47e6-8add-494150f56e37" key="3">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1190590301">Lawner, Franziska</persName>
+                    <date when="1899-05-13"/>
+                    <placeName ref="http://www.geonames.org/3103402">Bielsko-Biala</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+        
+        
+            <correspDesc source="#sb5b8e07-e0c8-47e6-8add-494150f56e37" key="4">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1190590301">Lawner, Franziska</persName>
+                    <date when="1899-05-21"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+        
+            <correspDesc source="#sb5b8e07-e0c8-47e6-8add-494150f56e37" key="5">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1190590301">Lawner, Franziska</persName>
+                    <date when="1899-05-26"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+        
+            <correspDesc source="#sb5b8e07-e0c8-47e6-8add-494150f56e37" key="6">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1190590301">Lawner, Franziska</persName>
+                    <date when="1899-05-27"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sb5b8e07-e0c8-47e6-8add-494150f56e37" key="7">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1190590301">Lawner, Franziska</persName>
+                    <date when="1899-05-31"/>
+                    <placeName ref="http://www.geonames.org/3103402">Bielsko-Biala</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sb5b8e07-e0c8-47e6-8add-494150f56e37" key="8">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1190590301">Lawner, Franziska</persName>
+                    <date when="1899-06-03"/>
+                    <placeName ref="http://www.geonames.org/3103402">Bielsko-Biala</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sb5b8e07-e0c8-47e6-8add-494150f56e37" key="9">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1190590301">Lawner, Franziska</persName>
+                    <date when="1899-06-17"/>
+                    <placeName ref="http://www.geonames.org/3103402">Bielsko-Biala</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sb5b8e07-e0c8-47e6-8add-494150f56e37" key="10">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1190590301">Lawner, Franziska</persName>
+                    <date when="1899-06-23"/>
+                    <placeName ref="http://www.geonames.org/3103402">Bielsko-Biala</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sb5b8e07-e0c8-47e6-8add-494150f56e37" key="11">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1190590301">Lawner, Franziska</persName>
+                    <date when="1899-11-05"/>
+                    <placeName ref="http://www.geonames.org/3103402">Bielsko-Biala</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sb5b8e07-e0c8-47e6-8add-494150f56e37" key="12">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1190590301">Lawner, Franziska</persName>
+                    <date when="1899-12-07"/>
+                    <placeName ref="http://www.geonames.org/3103402">Bielsko-Biala</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sb5b8e07-e0c8-47e6-8add-494150f56e37" key="13">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1190590301">Lawner, Franziska</persName>
+                    <date when="1899-12-31"/>
+                    <placeName ref="http://www.geonames.org/3103402">Bielsko-Biala</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sb5b8e07-e0c8-47e6-8add-494150f56e37" key="14">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1190590301">Lawner, Franziska</persName>
+                    <date when="1900-04-15"/>
+                    <placeName ref="http://www.geonames.org/3103402">Bielsko-Biala</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sb5b8e07-e0c8-47e6-8add-494150f56e37" key="15">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1190590301">Lawner, Franziska</persName>
+                    <date when="1900-05-14"/>
+                    <placeName ref="http://www.geonames.org/3103402">Bielsko-Biala</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sb5b8e07-e0c8-47e6-8add-494150f56e37" key="16">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/1190590301">Lawner, Franziska</persName>
+                    <date when="1900-09-05"/>
+                    <placeName ref="http://www.geonames.org/3103402">Bielsko-Biala</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

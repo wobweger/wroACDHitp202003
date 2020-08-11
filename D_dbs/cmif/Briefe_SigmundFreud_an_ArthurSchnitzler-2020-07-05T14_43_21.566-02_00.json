@@ -1,0 +1,119 @@
+{
+    "teiHeader": {
+        "fileDesc": {
+            "titleStmt": {
+                "title": "Briefe Franziska Lawners an Arthur Schnitzler",
+                "editor": [{
+                    "#text": "Walter Obweger",
+                    "email": "walter.obweger@oeaw.ac.at"
+                }]
+            },
+            "publicationStmt": {
+                "publisher": [{
+                    "ref": {
+                        "#text": "Martin Anton Müller",
+                        "target": "https://schnitzler-briefe.acdh.oeaw.ac.at"
+                    }
+                }],
+                "idno": {
+                    "type": "url",
+                    "#text": "https://shared.acdh.oeaw.ac.at/schnitzler-briefe/cmif/Briefe_SigmundFreud_an_ArthurSchnitzler-2020-07-04T13_12_22.448-02_00.xml"
+                },
+                "availability": {
+                    "licence": {
+                        "#text": "CC0",
+                        "target": "https://creativecommons.org/licenses/by/null/"
+                    }
+                },
+                "date": {
+                    "when": "2020-07-05T14:43:21.566-02:00"
+                }
+            },
+            "sourceDesc": {
+                "bibl": [{
+                    "xml:id": "sb5b8e07-e0c8-47e6-8add-494150f56e37",
+                    "type": "print",
+                    "#text": "1955 Sigmund Freud an Schnitzler"
+                }]
+            }
+        },
+        "profileDesc": {
+            "correspDesc": [{
+                "source": "#sb5b8e07-e0c8-47e6-8add-494150f56e37",
+                "correspAction": [{
+                    "type": "sent",
+                    "date" : {
+                        "when": "1922-05-14"
+                    },
+                    "persName": {
+                        "ref":"http://d-nb.info/gnd/118535315",
+                        "#text": "Freud, Sigmund"
+                    },
+                    "placeName": {"ref": "https://www.geonames.org/2761333", "#text": "Wien"}
+                }, {
+                    "type": "received",
+                    "date" : {
+                        "when": "1922-05-19"
+                    },
+                    "persName": {
+                        "ref":"http://d-nb.info/gnd/118609807",
+                        "#text": "Schnitzler, Arthur"
+                    },
+                    "placeName": {"ref": "https://www.geonames.org/2761333", "#text": "Wien"}
+                }]
+            }, {
+                "source": "#sb5b8e07-e0c8-47e6-8add-494150f56e37",
+                "correspAction": [{
+                    "type": "sent",
+                    "persName": [{
+                        "#text": "Unknown"
+                    }]
+                }, {
+                    "type": "received",
+                    "persName": [{
+                        "#text": "Unknown"
+                    }]
+                }]
+            }, {
+                "source": "#sb5b8e07-e0c8-47e6-8add-494150f56e37",
+                "correspAction": [{
+                    "type": "sent",
+                    "persName": [{
+                        "#text": "Unknown"
+                    }]
+                }, {
+                    "type": "received",
+                    "persName": [{
+                        "#text": "Unknown"
+                    }]
+                }]
+            }, {
+                "source": "#sb5b8e07-e0c8-47e6-8add-494150f56e37",
+                "correspAction": [{
+                    "type": "sent",
+                    "persName": [{
+                        "#text": "Unknown"
+                    }]
+                }, {
+                    "type": "received",
+                    "persName": [{
+                        "#text": "Unknown"
+                    }]
+                }]
+            }, {
+                "source": "#sb5b8e07-e0c8-47e6-8add-494150f56e37",
+                "correspAction": [{
+                    "type": "sent",
+                    "persName": [{
+                        "#text": "Unknown"
+                    }]
+                }, {
+                    "type": "received",
+                    "persName": [{
+                        "#text": "Unknown"
+                    }]
+                }]
+            }]
+        }
+    }
+}

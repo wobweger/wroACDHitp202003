@@ -1,0 +1,154 @@
+{
+    "teiHeader": {
+        "fileDesc": {
+            "titleStmt": {
+                "title": "Briefe Sigmund Freud an Arthur Schnitzler",
+                "editor": [{
+                    "#text": "Walter Obweger",
+                    "email": "walter.obweger@oeaw.ac.at"
+                }]
+            },
+            "publicationStmt": {
+                "publisher": [{
+                    "ref": {
+                        "#text": "Martin Anton Müller",
+                        "target": "https://schnitzler-briefe.acdh.oeaw.ac.at"
+                    }
+                }],
+                "idno": {
+                    "type": "url",
+                    "#text": "https://shared.acdh.oeaw.ac.at/schnitzler-briefe/cmif/Briefe_SigmundFreud_an_ArthurSchnitzler-2020-07-04T13_12_22.448-02_00.xml"
+                },
+                "availability": {
+                    "licence": {
+                        "#text": "CC0",
+                        "target": "https://creativecommons.org/licenses/by/null/"
+                    }
+                },
+                "date": {
+                    "when": "2020-07-23T07:42:55.631-02:00"
+                }
+            },
+            "sourceDesc": {
+                "bibl": [{
+                    "xml:id": "sb5b8e07-e0c8-47e6-8add-494150f56e37",
+                    "type": "print",
+                    "#text": "1955 Sigmund Freud an Schnitzler"
+                }]
+            }
+        },
+        "profileDesc": {
+            "correspDesc": [{
+                "source": "#sb5b8e07-e0c8-47e6-8add-494150f56e37",
+                "correspAction": [{
+                    "type": "sent",
+                    "persName": [{
+                        "#text": "Freud, Sigmund",
+                        "ref": "http://d-nb.info/gnd/118535315"
+                    }],
+                    "placeName": [{
+                        "#text": "Wien",
+                        "ref": "http://www.geonames.org/2761369"
+                    }],
+                    "date": {
+                        "when": "1922-05-14"
+                    }
+                }, {
+                    "type": "received",
+                    "persName": [{
+                        "#text": "Schnitzler, Arthur",
+                        "ref": "http://d-nb.info/gnd/118609807"
+                    }],
+                    "placeName": [{
+                        "#text": "Wien",
+                        "ref": "http://www.geonames.org/2761369"
+                    }],
+                    "date": {
+                        "when": "1922-05-19"
+                    }
+                }]
+            }, {
+                "source": "#sb5b8e07-e0c8-47e6-8add-494150f56e37",
+                "correspAction": [{
+                    "type": "sent",
+                    "persName": [{
+                        "#text": "Unknown"
+                    }],
+                    "placeName": [{
+                        "#text": "Stockerau",
+                        "ref": "http://www.geonames.org/2764279",
+                        "evidence": "conjecture"
+                    }],
+                    "date": {
+                        "when": "1924-05-14",
+                        "#text": "14.05.1924",
+                        "cert": "low",
+                        "evidence": "conjecture"
+                    }
+                }, {
+                    "type": "received",
+                    "persName": [{
+                        "#text": "Unknown",
+                        "ref": "http://correspSearch.net/unknown",
+                        "evidence": "conjecture",
+                        "cert": "low"
+                    }],
+                    "placeName": [{
+                        "#text": "Wien",
+                        "ref": "http://www.geonames.org/2761369",
+                        "cert": "low"
+                    }]
+                }]
+            }, {
+                "source": "#sb5b8e07-e0c8-47e6-8add-494150f56e37",
+                "correspAction": [{
+                    "type": "sent",
+                    "persName": [{
+                        "#text": "Freud, Sigmund",
+                        "ref": "http://d-nb.info/gnd/118535315"
+                    }],
+                    "placeName": [{
+                        "#text": "Graz",
+                        "ref": "http://www.geonames.org/2778067"
+                    }]
+                }, {
+                    "type": "received",
+                    "persName": [{
+                        "#text": "Schnitzler, Arthur",
+                        "ref": "http://d-nb.info/gnd/118609807"
+                    }],
+                    "placeName": [{
+                        "#text": "Zuerich",
+                        "ref": "http://www.geonames.org/2657896"
+                    }]
+                }]
+            }, {
+                "source": "#sb5b8e07-e0c8-47e6-8add-494150f56e37",
+                "correspAction": [{
+                    "type": "sent",
+                    "persName": [{
+                        "#text": "Unknown"
+                    }]
+                }, {
+                    "type": "received",
+                    "persName": [{
+                        "#text": "Unknown"
+                    }]
+                }]
+            }, {
+                "source": "#sb5b8e07-e0c8-47e6-8add-494150f56e37",
+                "correspAction": [{
+                    "type": "sent",
+                    "persName": [{
+                        "#text": "Unknown"
+                    }]
+                }, {
+                    "type": "received",
+                    "persName": [{
+                        "#text": "Unknown"
+                    }]
+                }]
+            }]
+        }
+    }
+}

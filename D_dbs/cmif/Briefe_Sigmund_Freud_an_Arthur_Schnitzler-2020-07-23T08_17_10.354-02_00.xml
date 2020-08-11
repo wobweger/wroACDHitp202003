@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Briefe Sigmund Freud an Arthur Schnitzler</title>
+                <editor>Walter Obweger<email>walter.obweger@oeaw.ac.at</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://schnitzler-briefe.acdh.oeaw.ac.at">Martin Anton Müller</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/null/">CC0</licence>
+                </availability>
+                <date when="2020-07-23T08:17:10.354-02:00"/>
+                <idno type="url">https://shared.acdh.oeaw.ac.at/schnitzler-briefe/cmif/Briefe_SigmundFreud_an_ArthurSchnitzler-2020-07-04T13_12_22.448-02_00.xml</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="sb5b8e07-e0c8-47e6-8add-494150f56e37">1955 Sigmund Freud an Schnitzler</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#sb5b8e07-e0c8-47e6-8add-494150f56e37">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535315">Freud, Sigmund</persName>
+                    <date when="1922-05-14"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <date when="1922-05-19"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sb5b8e07-e0c8-47e6-8add-494150f56e37">
+                <correspAction type="sent">
+                    <persName>Unknown</persName>
+                    <date cert="low" evidence="conjecture" when="1924-05-14">14.05.1924</date>
+                    <placeName ref="http://www.geonames.org/2764279" evidence="conjecture">Stockerau</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName cert="low" ref="http://correspSearch.net/unknown" evidence="conjecture">Unknown</persName>
+                    <placeName cert="low" ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sb5b8e07-e0c8-47e6-8add-494150f56e37">
+                <correspAction type="sent">
+                    <persName ref="http://d-nb.info/gnd/118535315">Freud, Sigmund</persName>
+                    <date evidence="conjecture" when="1924-05-20">20.05.1924</date>
+                    <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <placeName ref="http://www.geonames.org/2657896">Zuerich</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sb5b8e07-e0c8-47e6-8add-494150f56e37">
+                <correspAction type="sent">
+                    <persName>Unknown</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Unknown</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#sb5b8e07-e0c8-47e6-8add-494150f56e37">
+                <correspAction type="sent">
+                    <persName>Unknown</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Unknown</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

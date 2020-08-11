@@ -1,0 +1,10 @@
+<!ELEMENT TEI (teiHeader,text)>
+<!ELEMENT teiHeader (profileDesc)>
+<!ELEMENT profileDesc (correspDesc)>
+<!ELEMENT correspDesc (correspAction)>
+<!ELEMENT correspAction (persName,faul)>
+<!ELEMENT persName EMPTY>
+<!ELEMENT faul EMPTY>
+<!ELEMENT text (body)>
+<!ELEMENT body (p)>
+<!ELEMENT p EMPTY>
