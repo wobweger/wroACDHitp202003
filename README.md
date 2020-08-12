@@ -25,11 +25,20 @@ navigation
 ||[dbs](./D_dbs/README.md)|[cmif](./D_dbs/cmif/README.md)|[1_sys](./D_dbs/1_sys/README.md)|[3_py](./D_dbs/3_py/README.md)|
 |web|[correspSearch net](https://correspsearch.net/)|[editor](https://correspsearch.net/creator/index.xql?l=en)|
 ||[gnd](https://d-nb.info/gnd/118609807)|[geonames](https://www.geonames.org/2761333)|
+|tls| toolset utilized|
+|   | [Transkribus](https://transkribus.eu/Transkribus/#)| [OpenRefine](https://openrefine.org/)|
+|   |[github](https://github.com/wobweger/wroACDHitp202003) public|
+|   |[gitlab](https://gitlab.com/wobweger/wroacdhitp20203) private (too messy)|
+|   | [google drive](https://drive.google.com/drive/folders/1qOIcFVc9RVIO3tkh3m2P_z7vdrsKHNTU)|
+|   | [vscode](https://code.visualstudio.com/)| [pandoc](https://pandoc.org/)
+|   | python ([Jupyter](https://jupyter.org/) Notebooks)
 
 # workflows
 
 + [workflow](wrkFlwArthurSchnitzlerBriefe.md) Arthur Schnitzler Briefe
 + [CMIF issue workaround](wrkFlw_CMIF_uncertainDates.md) Arthur Schnitzler Briefe
++ [google colaboratory](wrkFlw_GoogleCoLab.md)
++ [documentation](wrkFlw_Doc.md)
 
 # license / contribute
 
