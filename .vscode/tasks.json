@@ -4,6 +4,20 @@
     "version": "2.0.0",
     "tasks": [
         {
+            "label": "pandoc tpl",
+            "type": "shell",
+            "command": "pandoc" ,
+            "args": [
+                "${file}" ,
+                "--standalone",
+                "-f","markdown+emoji",
+                "--resource-path=${fileDirname}",
+                "--metadata-file=${fileBasenameNoExtension}.yaml",
+                "--reference-doc=${workspaceFolder}/z_tpl/zdPanDocTmpl.docx",
+                "-o","../build/wroACDHitp202003_${fileBasenameNoExtension}.docx",
+            ],
+        },
+        {
             "label": "pandoc simple",
             "type": "shell",
             "command": "pandoc" ,
