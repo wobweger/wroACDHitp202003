@@ -13,6 +13,6 @@ This can be accomplished by 2 additional steps in OpenRefine.
 
 |step   | comment |
 |---    |---|
-|       |appy [dateCert_WorkARoundBug.json](./D_dbs/1_sys/dateCert_WorkARoundBug.json)|
+|       |apply [dateCert_WorkARoundBug.json](./D_dbs/1_sys/dateCert_WorkARoundBug.json)|
 |       |export Templating using [tpl_Briefe1875_1912_corresp_WorkARoundBug.json](./D_dbs/1_sys/tpl_Briefe1875_1912_corresp_WorkARoundBug.json)
 |       |or [tpl_Briefe1913_1931_corresp_WorkARoundBug.json](./D_dbs/1_sys/tpl_Briefe1913_1931_corresp_WorkARoundBug.json)
