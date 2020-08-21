@@ -1,7 +1,7 @@
 ---
 title: 'Workflow'
-subtitle: "Google CoLab"
-docTitle: Workflow Google CoLab
+subtitle: "visualization"
+docTitle: repository visualization
 keyProjectNameLabel: wroACDHitp202003
 keyProjectName: ACDH and CH Internship 2020 WRO 
 docAuthor: Walter Obweger
@@ -11,13 +11,13 @@ docReview0: Martin Anton Mueller
 docReview1:
 docReview2: 
 docApproved:
-docID: wroACDHitp202003-WrkFlW-003
+docID: wroACDHitp202003-WrkFlW-005
 docGrp0: 'wro ACDH and CH'
 docGrp1: 'internship 2020 / 03'
 docGrp2: 'Workflow'
 docClassification: CC-by
-docCreate: 2020-08-12
-docRevision: V00.01
+docCreate: 2020-08-05
+docRevision: V00.00
 docStatus: PreDraft
-docChangeDate: 2020-08-12
+docChangeDate: 2020-08-05
 ---
