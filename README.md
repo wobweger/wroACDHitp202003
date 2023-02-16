@@ -5,6 +5,12 @@
 [ACDH and CH](https://www.oeaw.ac.at/acdh/) internship 2020 Q3
 
 twitter:@wobweger `#wroACDHitp202003`  
+mastodon:[@wobweger@mstdn.social](https://mstdn.social/@wobweger)  
+<a href="https://orcid.org/0000-0002-9638-2167">
+<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />
+0000-0002-9638-2167
+</a>
+
 big thanks to the whole ACDH and CH team (twitter: @ACDH_OeAW),  
 special thanks to my instructor Martin Anton Mueller (twitter:@f46906169) for picking perfectly suited topics.
 most illuminating is the opportunity to get a glimpse of
