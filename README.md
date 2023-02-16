@@ -1,5 +1,7 @@
 # wroACDHitp202003
 
+[![DOI](https://zenodo.org/badge/286787060.svg)](https://zenodo.org/badge/latestdoi/286787060)
+
 [ACDH and CH](https://www.oeaw.ac.at/acdh/) internship 2020 Q3
 
 twitter:@wobweger `#wroACDHitp202003`  
